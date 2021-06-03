@@ -1,0 +1,544 @@
+City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temperature,Wind Speed
+Lebu,1,CL,1622155223,"{'temp': 53.55, 'feels_like': 52.65, 'temp_min': 53.55, 'temp_max': 53.55, 'pressure': 1014, 'humidity': 86, 'sea_level': 1014, 'grnd_level': 1010}",-37.6167,-73.65,53.55,9.33
+Cap Malheureux,6,MU,1622155466,"{'temp': 73.47, 'feels_like': 74.19, 'temp_min': 72.09, 'temp_max': 73.47, 'pressure': 1018, 'humidity': 78}",-19.9842,57.6142,73.47,5.01
+Jamestown,1,US,1622155467,"{'temp': 59.72, 'feels_like': 57.65, 'temp_min': 56.52, 'temp_max': 62.29, 'pressure': 1020, 'humidity': 48}",42.097,-79.2353,62.29,3.0
+Busselton,0,AU,1622155467,"{'temp': 52.05, 'feels_like': 50.34, 'temp_min': 52.05, 'temp_max': 53.1, 'pressure': 1017, 'humidity': 72, 'sea_level': 1017, 'grnd_level': 1017}",-33.65,115.3333,53.1,9.78
+Kirakira,91,SB,1622155467,"{'temp': 81.99, 'feels_like': 85.57, 'temp_min': 81.99, 'temp_max': 81.99, 'pressure': 1013, 'humidity': 66, 'sea_level': 1013, 'grnd_level': 1011}",-10.4544,161.9205,81.99,4.21
+Tiznit Province,73,MA,1622155468,"{'temp': 62.4, 'feels_like': 62.01, 'temp_min': 62.4, 'temp_max': 62.4, 'pressure': 1014, 'humidity': 78, 'sea_level': 1014, 'grnd_level': 949}",29.5833,-9.5,62.4,1.61
+Dunedin,100,NZ,1622155468,"{'temp': 46.8, 'feels_like': 42.85, 'temp_min': 46.8, 'temp_max': 46.8, 'pressure': 998, 'humidity': 87}",-45.8742,170.5036,46.8,8.01
+Rikitea,64,PF,1622155468,"{'temp': 71.44, 'feels_like': 70.95, 'temp_min': 71.44, 'temp_max': 71.44, 'pressure': 1015, 'humidity': 57, 'sea_level': 1015, 'grnd_level': 1012}",-23.1203,-134.9692,71.44,4.18
+Carnarvon,40,AU,1622155468,"{'temp': 64.47, 'feels_like': 64.47, 'temp_min': 64.47, 'temp_max': 64.47, 'pressure': 1016, 'humidity': 82}",-24.8667,113.6333,64.47,4.61
+Yangi Marg`ilon,9,UZ,1622155469,"{'temp': 68.72, 'feels_like': 67.6, 'temp_min': 68.72, 'temp_max': 71.02, 'pressure': 1012, 'humidity': 49}",40.4272,71.7189,71.02,4.61
+Najrān,9,SA,1622155469,"{'temp': 81.25, 'feels_like': 79.32, 'temp_min': 81.25, 'temp_max': 81.25, 'pressure': 1012, 'humidity': 19, 'sea_level': 1012, 'grnd_level': 873}",17.4924,44.1277,81.25,1.34
+Bambous Virieux,40,MU,1622155470,"{'temp': 71.85, 'feels_like': 73.15, 'temp_min': 71.85, 'temp_max': 73.22, 'pressure': 1017, 'humidity': 94, 'sea_level': 1017, 'grnd_level': 1014}",-20.3428,57.7575,73.22,7.47
+Ushuaia,75,AR,1622155299,"{'temp': 29.86, 'feels_like': 16.34, 'temp_min': 29.86, 'temp_max': 29.86, 'pressure': 990, 'humidity': 93}",-54.8,-68.3,29.86,23.02
+Logan,1,US,1622155235,"{'temp': 74.64, 'feels_like': 73.45, 'temp_min': 70.16, 'temp_max': 78.48, 'pressure': 997, 'humidity': 35}",41.7355,-111.8344,78.48,4.0
+Cidreira,0,BR,1622155470,"{'temp': 61.63, 'feels_like': 60.64, 'temp_min': 61.63, 'temp_max': 61.63, 'pressure': 1013, 'humidity': 67, 'sea_level': 1013, 'grnd_level': 1012}",-30.1811,-50.2056,61.63,3.74
+Kumul,100,CN,1622155470,"{'temp': 79.3, 'feels_like': 79.3, 'temp_min': 79.3, 'temp_max': 79.3, 'pressure': 1003, 'humidity': 13, 'sea_level': 1003, 'grnd_level': 923}",42.8,93.45,79.3,1.45
+Port Alfred,93,ZA,1622155471,"{'temp': 60.3, 'feels_like': 59.83, 'temp_min': 60.3, 'temp_max': 60.3, 'pressure': 1015, 'humidity': 81, 'sea_level': 1015, 'grnd_level': 1013}",-33.5906,26.891,60.3,11.12
+Saskylakh,72,RU,1622155471,"{'temp': 31.28, 'feels_like': 26.64, 'temp_min': 31.28, 'temp_max': 31.28, 'pressure': 1021, 'humidity': 76, 'sea_level': 1021, 'grnd_level': 1020}",71.9167,114.0833,31.28,4.59
+Dargaville,82,NZ,1622155471,"{'temp': 60.66, 'feels_like': 60.08, 'temp_min': 60.66, 'temp_max': 60.66, 'pressure': 1004, 'humidity': 78, 'sea_level': 1004, 'grnd_level': 1003}",-35.9333,173.8833,60.66,8.37
+Rāzole,59,IN,1622155472,"{'temp': 86.88, 'feels_like': 88.61, 'temp_min': 86.88, 'temp_max': 86.88, 'pressure': 1001, 'humidity': 48, 'sea_level': 1001, 'grnd_level': 999}",16.4833,81.8333,86.88,4.09
+Hanmer Springs,100,NZ,1622155472,"{'temp': 51.51, 'feels_like': 49.37, 'temp_min': 51.51, 'temp_max': 51.51, 'pressure': 998, 'humidity': 64, 'sea_level': 998, 'grnd_level': 952}",-42.5167,172.8167,51.51,3.83
+Punta Arenas,0,CL,1622155472,"{'temp': 30.31, 'feels_like': 18.82, 'temp_min': 30.11, 'temp_max': 30.31, 'pressure': 996, 'humidity': 74, 'sea_level': 996, 'grnd_level': 993}",-53.15,-70.9167,30.31,16.69
+Puntarenas,99,CR,1622155254,"{'temp': 85.93, 'feels_like': 99.57, 'temp_min': 85.93, 'temp_max': 85.93, 'pressure': 1010, 'humidity': 80, 'sea_level': 1010, 'grnd_level': 1010}",9.9763,-84.8384,85.93,5.75
+Mataura,100,NZ,1622155473,"{'temp': 49.48, 'feels_like': 49.48, 'temp_min': 49.48, 'temp_max': 49.48, 'pressure': 1000, 'humidity': 95, 'sea_level': 1000, 'grnd_level': 993}",-46.1927,168.8643,49.48,0.74
+Mount Isa,1,AU,1622155392,"{'temp': 60.57, 'feels_like': 57.78, 'temp_min': 60.57, 'temp_max': 60.57, 'pressure': 1023, 'humidity': 31}",-20.7333,139.5,60.57,12.66
+East London,72,ZA,1622155224,"{'temp': 63.19, 'feels_like': 62.83, 'temp_min': 63.19, 'temp_max': 63.19, 'pressure': 1015, 'humidity': 77, 'sea_level': 1015, 'grnd_level': 1009}",-33.0153,27.9116,63.19,11.9
+Saint George,1,US,1622155473,"{'temp': 93.16, 'feels_like': 88.59, 'temp_min': 88.36, 'temp_max': 97.27, 'pressure': 1012, 'humidity': 10}",37.1041,-113.5841,97.27,3.0
+Hermanus,90,ZA,1622155474,"{'temp': 63.81, 'feels_like': 63.23, 'temp_min': 59.9, 'temp_max': 63.81, 'pressure': 1016, 'humidity': 71, 'sea_level': 1016, 'grnd_level': 1012}",-34.4187,19.2345,63.81,12.5
+Skjervøy,100,NO,1622155474,"{'temp': 40.75, 'feels_like': 31.05, 'temp_min': 40.75, 'temp_max': 40.75, 'pressure': 1014, 'humidity': 82, 'sea_level': 1014, 'grnd_level': 1014}",70.0311,20.9714,40.75,21.85
+Saint-Philippe,39,RE,1622155474,"{'temp': 70.72, 'feels_like': 71.26, 'temp_min': 70.21, 'temp_max': 71.19, 'pressure': 1019, 'humidity': 80, 'sea_level': 1019, 'grnd_level': 1013}",-21.3585,55.7679,71.19,4.54
+Lagoa,99,PT,1622155474,"{'temp': 58.84, 'feels_like': 57.2, 'temp_min': 58.84, 'temp_max': 58.84, 'pressure': 1026, 'humidity': 59, 'sea_level': 1026, 'grnd_level': 1017}",39.05,-27.9833,58.84,7.27
+Cabudare,79,VE,1622155475,"{'temp': 88.05, 'feels_like': 108.43, 'temp_min': 88.05, 'temp_max': 88.05, 'pressure': 1012, 'humidity': 83, 'sea_level': 1012, 'grnd_level': 979}",10.0289,-69.0894,88.05,3.31
+Atbasar,0,KZ,1622155475,"{'temp': 51.71, 'feels_like': 49.73, 'temp_min': 51.71, 'temp_max': 51.71, 'pressure': 1022, 'humidity': 67, 'sea_level': 1022, 'grnd_level': 988}",51.8,68.3333,51.71,7.25
+Ribeira Grande,100,PT,1622155475,"{'temp': 59.74, 'feels_like': 58.33, 'temp_min': 59.74, 'temp_max': 59.74, 'pressure': 1027, 'humidity': 62, 'sea_level': 1027, 'grnd_level': 1027}",38.5167,-28.7,59.74,9.22
+Esperance,5,AU,1622155476,"{'temp': 51.64, 'feels_like': 48.85, 'temp_min': 51.64, 'temp_max': 51.64, 'pressure': 1023, 'humidity': 50, 'sea_level': 1023, 'grnd_level': 1023}",-33.8667,121.9,51.64,16.15
+Coquimbo,0,CL,1622155476,"{'temp': 55.13, 'feels_like': 54.43, 'temp_min': 55.13, 'temp_max': 55.13, 'pressure': 1013, 'humidity': 87, 'sea_level': 1013, 'grnd_level': 1011}",-29.9533,-71.3436,55.13,7.47
+Arraial do Cabo,1,BR,1622155476,"{'temp': 72.68, 'feels_like': 73.65, 'temp_min': 72.68, 'temp_max': 72.68, 'pressure': 1016, 'humidity': 85, 'sea_level': 1016, 'grnd_level': 1014}",-22.9661,-42.0278,72.68,7.9
+Dikson,88,RU,1622155477,"{'temp': 18.73, 'feels_like': 9.28, 'temp_min': 18.73, 'temp_max': 18.73, 'pressure': 1016, 'humidity': 99, 'sea_level': 1016, 'grnd_level': 1010}",73.5069,80.5464,18.73,7.27
+Vaini,20,TO,1622155477,"{'temp': 77.16, 'feels_like': 77.83, 'temp_min': 77.16, 'temp_max': 77.16, 'pressure': 1014, 'humidity': 69}",-21.2,-175.2,77.16,10.36
+Bluff,100,NZ,1622155477,"{'temp': 49.8, 'feels_like': 46.11, 'temp_min': 49.8, 'temp_max': 49.8, 'pressure': 1000, 'humidity': 88, 'sea_level': 1000, 'grnd_level': 997}",-46.6,168.3333,49.8,9.06
+Hobart,75,AU,1622155213,"{'temp': 43.34, 'feels_like': 43.34, 'temp_min': 39.22, 'temp_max': 44.92, 'pressure': 1025, 'humidity': 77}",-42.8794,147.3294,44.92,1.99
+Santa Ana,20,US,1622155398,"{'temp': 72.99, 'feels_like': 72.57, 'temp_min': 60.3, 'temp_max': 88.57, 'pressure': 1016, 'humidity': 55}",33.7456,-117.8678,88.57,3.0
+Norman Wells,75,CA,1622155478,"{'temp': 46.44, 'feels_like': 40.41, 'temp_min': 46.44, 'temp_max': 46.44, 'pressure': 1006, 'humidity': 66}",65.282,-126.8329,46.44,13.8
+Nsanje,0,MW,1622155478,"{'temp': 60.53, 'feels_like': 60.66, 'temp_min': 60.53, 'temp_max': 60.53, 'pressure': 1020, 'humidity': 93, 'sea_level': 1020, 'grnd_level': 1013}",-16.92,35.262,60.53,1.43
+Torbay,90,CA,1622155393,"{'temp': 51.89, 'feels_like': 51.24, 'temp_min': 48.15, 'temp_max': 54.88, 'pressure': 1001, 'humidity': 95}",47.6666,-52.7314,54.88,23.02
+Hithadhoo,100,MV,1622155479,"{'temp': 81.82, 'feels_like': 87.89, 'temp_min': 81.82, 'temp_max': 81.82, 'pressure': 1011, 'humidity': 78, 'sea_level': 1011, 'grnd_level': 1010}",-0.6,73.0833,81.82,17.92
+Bilma,0,NE,1622155479,"{'temp': 86.09, 'feels_like': 82.83, 'temp_min': 86.09, 'temp_max': 86.09, 'pressure': 1011, 'humidity': 7, 'sea_level': 1011, 'grnd_level': 971}",18.6853,12.9164,86.09,3.33
+Mahébourg,40,MU,1622155479,"{'temp': 71.89, 'feels_like': 73.2, 'temp_min': 71.89, 'temp_max': 73.26, 'pressure': 1018, 'humidity': 94}",-20.4081,57.7,73.26,3.44
+Tiksi,100,RU,1622155480,"{'temp': 34.81, 'feels_like': 28.94, 'temp_min': 34.81, 'temp_max': 34.81, 'pressure': 1015, 'humidity': 90, 'sea_level': 1015, 'grnd_level': 1010}",71.6872,128.8694,34.81,6.91
+Albany,43,US,1622155404,"{'temp': 64.85, 'feels_like': 63.34, 'temp_min': 61, 'temp_max': 69.17, 'pressure': 1013, 'humidity': 49}",42.6001,-73.9662,69.17,12.01
+Sedalia,1,US,1622155480,"{'temp': 68.92, 'feels_like': 69.37, 'temp_min': 67.59, 'temp_max': 69.93, 'pressure': 1011, 'humidity': 82}",38.7045,-93.2283,69.93,12.66
+Kindu,97,CD,1622155480,"{'temp': 68.94, 'feels_like': 70, 'temp_min': 68.94, 'temp_max': 68.94, 'pressure': 1012, 'humidity': 95, 'sea_level': 1012, 'grnd_level': 959}",-2.95,25.95,68.94,2.24
+Iqaluit,75,CA,1622155481,"{'temp': 34.7, 'feels_like': 25.77, 'temp_min': 34.7, 'temp_max': 35.33, 'pressure': 1010, 'humidity': 69}",63.7506,-68.5145,35.33,13.0
+Bredasdorp,96,ZA,1622155481,"{'temp': 61.92, 'feels_like': 60.21, 'temp_min': 61.92, 'temp_max': 63.28, 'pressure': 1015, 'humidity': 51, 'sea_level': 1015, 'grnd_level': 1006}",-34.5322,20.0403,63.28,7.67
+Ambilobe,7,MG,1622155481,"{'temp': 68.16, 'feels_like': 69.04, 'temp_min': 68.16, 'temp_max': 68.16, 'pressure': 1016, 'humidity': 93, 'sea_level': 1016, 'grnd_level': 1012}",-13.2,49.05,68.16,2.68
+Cayenne,90,GF,1622155325,"{'temp': 76.08, 'feels_like': 77.61, 'temp_min': 75.24, 'temp_max': 76.08, 'pressure': 1013, 'humidity': 90}",4.9333,-52.3333,76.08,4.0
+Aklavik,75,CA,1622155337,"{'temp': 32, 'feels_like': 21.6, 'temp_min': 32, 'temp_max': 32.83, 'pressure': 1013, 'humidity': 69}",68.2191,-135.0107,32.83,14.97
+Byron Bay,4,AU,1622155482,"{'temp': 55.44, 'feels_like': 54.01, 'temp_min': 49.96, 'temp_max': 63.05, 'pressure': 1022, 'humidity': 71, 'sea_level': 1022, 'grnd_level': 1021}",-28.65,153.6167,63.05,9.42
+Tuatapere,100,NZ,1622155482,"{'temp': 49.82, 'feels_like': 49.82, 'temp_min': 49.82, 'temp_max': 49.82, 'pressure': 1000, 'humidity': 92, 'sea_level': 1000, 'grnd_level': 997}",-46.1333,167.6833,49.82,1.5
+Tasiilaq,95,GL,1622155483,"{'temp': 42.96, 'feels_like': 40.24, 'temp_min': 42.96, 'temp_max': 42.96, 'pressure': 1016, 'humidity': 89, 'sea_level': 1016, 'grnd_level': 1011}",65.6145,-37.6368,42.96,4.61
+Yumen,98,CN,1622155483,"{'temp': 67.33, 'feels_like': 64.65, 'temp_min': 67.33, 'temp_max': 67.33, 'pressure': 1007, 'humidity': 19, 'sea_level': 1007, 'grnd_level': 852}",40.2833,97.2,67.33,4.65
+Evans,1,US,1622155483,"{'temp': 89.82, 'feels_like': 88.66, 'temp_min': 87.24, 'temp_max': 93.4, 'pressure': 1014, 'humidity': 34}",33.5337,-82.1307,93.4,4.0
+Kiama,12,AU,1622155483,"{'temp': 56.44, 'feels_like': 54.75, 'temp_min': 53.08, 'temp_max': 57.58, 'pressure': 1023, 'humidity': 63}",-34.6833,150.8667,57.58,7.0
+Kaitangata,100,NZ,1622155484,"{'temp': 50.94, 'feels_like': 49.73, 'temp_min': 50.94, 'temp_max': 50.94, 'pressure': 1000, 'humidity': 85, 'sea_level': 1000, 'grnd_level': 999}",-46.2817,169.8464,50.94,2.95
+Deputatsky,34,RU,1622155484,"{'temp': 54.45, 'feels_like': 51.71, 'temp_min': 54.45, 'temp_max': 54.45, 'pressure': 1010, 'humidity': 45, 'sea_level': 1010, 'grnd_level': 943}",69.3,139.9,54.45,9.89
+Pacific Grove,1,US,1622155484,"{'temp': 62.15, 'feels_like': 61.68, 'temp_min': 56.08, 'temp_max': 81.16, 'pressure': 1020, 'humidity': 77}",36.6177,-121.9166,81.16,7.0
+Leningradskiy,79,RU,1622155485,"{'temp': 32.59, 'feels_like': 23.32, 'temp_min': 32.59, 'temp_max': 32.59, 'pressure': 1024, 'humidity': 96, 'sea_level': 1024, 'grnd_level': 1023}",69.3833,178.4167,32.59,12.48
+Nchelenge,1,ZM,1622155485,"{'temp': 61.5, 'feels_like': 60.31, 'temp_min': 61.5, 'temp_max': 61.5, 'pressure': 1017, 'humidity': 63, 'sea_level': 1017, 'grnd_level': 912}",-9.3451,28.734,61.5,6.04
+Praia,20,CV,1622155485,"{'temp': 72.14, 'feels_like': 72.48, 'temp_min': 72.14, 'temp_max': 72.14, 'pressure': 1015, 'humidity': 73}",14.9215,-23.5087,72.14,14.97
+Tutóia,39,BR,1622155486,"{'temp': 79.7, 'feels_like': 79.7, 'temp_min': 79.7, 'temp_max': 79.7, 'pressure': 1011, 'humidity': 77, 'sea_level': 1011, 'grnd_level': 1010}",-2.7619,-42.2744,79.7,7.16
+Ternate,56,ID,1622155486,"{'temp': 81.88, 'feels_like': 87.78, 'temp_min': 81.88, 'temp_max': 81.88, 'pressure': 1012, 'humidity': 77, 'sea_level': 1012, 'grnd_level': 1012}",0.8,127.4,81.88,3.27
+Pevek,55,RU,1622155486,"{'temp': 37.58, 'feels_like': 37.58, 'temp_min': 37.58, 'temp_max': 37.58, 'pressure': 1018, 'humidity': 70, 'sea_level': 1018, 'grnd_level': 1012}",69.7008,170.3133,37.58,0.98
+Nome,1,US,1622155486,"{'temp': 53.67, 'feels_like': 50.61, 'temp_min': 53.67, 'temp_max': 59.11, 'pressure': 1009, 'humidity': 40}",64.5011,-165.4064,59.11,8.05
+New Norfolk,36,AU,1622155487,"{'temp': 41.86, 'feels_like': 41.86, 'temp_min': 38.88, 'temp_max': 44.58, 'pressure': 1027, 'humidity': 71}",-42.7826,147.0587,44.58,1.99
+Lázaro Cárdenas,100,MX,1622155487,"{'temp': 86.09, 'feels_like': 88.92, 'temp_min': 86.09, 'temp_max': 86.09, 'pressure': 1010, 'humidity': 53, 'sea_level': 1010, 'grnd_level': 1009}",17.9583,-102.2,86.09,10.0
+Karpinsk,95,RU,1622155487,"{'temp': 44.26, 'feels_like': 44.26, 'temp_min': 44.26, 'temp_max': 44.26, 'pressure': 1020, 'humidity': 59, 'sea_level': 1020, 'grnd_level': 993}",59.7654,60.0085,44.26,2.77
+Mar del Plata,0,AR,1622155344,"{'temp': 61.54, 'feels_like': 59.65, 'temp_min': 59.02, 'temp_max': 64.09, 'pressure': 997, 'humidity': 48}",-38.0023,-57.5575,64.09,13.0
+Yar-Sale,77,RU,1622155488,"{'temp': 34.14, 'feels_like': 29.43, 'temp_min': 34.14, 'temp_max': 34.14, 'pressure': 1017, 'humidity': 71, 'sea_level': 1017, 'grnd_level': 1017}",66.8333,70.8333,34.14,5.19
+Severo-Kuril'sk,89,RU,1622155488,"{'temp': 39.99, 'feels_like': 33.4, 'temp_min': 39.99, 'temp_max': 39.99, 'pressure': 1009, 'humidity': 80, 'sea_level': 1009, 'grnd_level': 1008}",50.6789,156.125,39.99,10.54
+Outjo,0,NA,1622155489,"{'temp': 56.97, 'feels_like': 54.34, 'temp_min': 56.97, 'temp_max': 56.97, 'pressure': 1020, 'humidity': 42, 'sea_level': 1020, 'grnd_level': 879}",-20.1167,16.15,56.97,5.77
+Tallahassee,20,US,1622155213,"{'temp': 87.91, 'feels_like': 92.41, 'temp_min': 84.67, 'temp_max': 91.6, 'pressure': 1016, 'humidity': 54}",30.4383,-84.2807,91.6,1.01
+Kapaa,20,US,1622155489,"{'temp': 82.18, 'feels_like': 86.56, 'temp_min': 81.19, 'temp_max': 82.72, 'pressure': 1019, 'humidity': 69}",22.0752,-159.319,82.72,1.99
+Tuktoyaktuk,75,CA,1622155489,"{'temp': 28.4, 'feels_like': 19.08, 'temp_min': 28.4, 'temp_max': 28.4, 'pressure': 1013, 'humidity': 86}",69.4541,-133.0374,28.4,10.36
+Marovoay,0,MG,1622155490,"{'temp': 69.94, 'feels_like': 69.6, 'temp_min': 69.94, 'temp_max': 69.94, 'pressure': 1017, 'humidity': 63, 'sea_level': 1017, 'grnd_level': 1016}",-16.1,46.6333,69.94,1.61
+Asău,97,RO,1622155490,"{'temp': 56.43, 'feels_like': 56.46, 'temp_min': 54.28, 'temp_max': 60.76, 'pressure': 1012, 'humidity': 100}",46.4333,26.4,60.76,3.85
+Atuona,12,PF,1622155490,"{'temp': 78.96, 'feels_like': 78.96, 'temp_min': 78.96, 'temp_max': 78.96, 'pressure': 1012, 'humidity': 73, 'sea_level': 1012, 'grnd_level': 1005}",-9.8,-139.0333,78.96,14.23
+Puerto Ayora,46,EC,1622155491,"{'temp': 75.54, 'feels_like': 77.07, 'temp_min': 75.54, 'temp_max': 75.54, 'pressure': 1011, 'humidity': 91}",-0.7393,-90.3518,75.54,8.01
+Hilo,20,US,1622155127,"{'temp': 79.97, 'feels_like': 79.97, 'temp_min': 79.11, 'temp_max': 82.8, 'pressure': 1020, 'humidity': 69}",19.7297,-155.09,82.8,12.66
+Nara,99,JP,1622155393,"{'temp': 65.71, 'feels_like': 65.46, 'temp_min': 62.98, 'temp_max': 66.49, 'pressure': 1009, 'humidity': 74, 'sea_level': 1009, 'grnd_level': 1002}",34.6851,135.8049,66.49,3.47
+Kalianget,29,ID,1622155491,"{'temp': 81.23, 'feels_like': 87.39, 'temp_min': 81.23, 'temp_max': 81.23, 'pressure': 1012, 'humidity': 82, 'sea_level': 1012, 'grnd_level': 1011}",-7.05,113.9333,81.23,12.57
+Sarkand,100,KZ,1622155491,"{'temp': 62.92, 'feels_like': 62.35, 'temp_min': 62.92, 'temp_max': 62.92, 'pressure': 1014, 'humidity': 73, 'sea_level': 1014, 'grnd_level': 926}",45.41,79.9186,62.92,6.46
+Vila Franca do Campo,49,PT,1622155492,"{'temp': 59.41, 'feels_like': 58.62, 'temp_min': 59.41, 'temp_max': 59.41, 'pressure': 1025, 'humidity': 76, 'sea_level': 1025, 'grnd_level': 1022}",37.7167,-25.4333,59.41,5.44
+Katangli,99,RU,1622155492,"{'temp': 41.99, 'feels_like': 36.93, 'temp_min': 41.99, 'temp_max': 41.99, 'pressure': 1007, 'humidity': 77, 'sea_level': 1007, 'grnd_level': 1004}",51.7102,143.2326,41.99,8.16
+Cape Town,75,ZA,1622155338,"{'temp': 59.77, 'feels_like': 59.22, 'temp_min': 59.09, 'temp_max': 61.21, 'pressure': 1018, 'humidity': 80}",-33.9258,18.4232,61.21,4.0
+Barrow,90,US,1622155493,"{'temp': 33.82, 'feels_like': 23.94, 'temp_min': 33.82, 'temp_max': 33.82, 'pressure': 1021, 'humidity': 75}",71.2906,-156.7887,33.82,14.97
+George Town,20,MY,1622155250,"{'temp': 78.57, 'feels_like': 80.26, 'temp_min': 77.95, 'temp_max': 78.89, 'pressure': 1009, 'humidity': 88}",5.4112,100.3354,78.89,1.01
+Mount Gambier,90,AU,1622155493,"{'temp': 48.11, 'feels_like': 45.55, 'temp_min': 48.11, 'temp_max': 48.11, 'pressure': 1033, 'humidity': 100}",-37.8333,140.7667,48.11,5.75
+Quatre Cocos,25,MU,1622155493,"{'temp': 73.09, 'feels_like': 74.25, 'temp_min': 71.71, 'temp_max': 73.09, 'pressure': 1017, 'humidity': 88, 'sea_level': 1017, 'grnd_level': 1013}",-20.2078,57.7625,73.09,8.01
+Saint Paul Harbor,1,US,1622155494,"{'temp': 53.11, 'feels_like': 51.22, 'temp_min': 53.11, 'temp_max': 53.11, 'pressure': 1008, 'humidity': 66}",57.79,-152.4072,53.11,6.91
+Novo Aripuanã,79,BR,1622155494,"{'temp': 82.36, 'feels_like': 85.78, 'temp_min': 82.36, 'temp_max': 82.36, 'pressure': 1009, 'humidity': 64, 'sea_level': 1009, 'grnd_level': 1005}",-5.1206,-60.3797,82.36,1.86
+Troitsko-Pechorsk,100,RU,1622155494,"{'temp': 37.67, 'feels_like': 34.39, 'temp_min': 37.67, 'temp_max': 37.67, 'pressure': 1017, 'humidity': 97, 'sea_level': 1017, 'grnd_level': 1002}",62.7084,56.1964,37.67,4.25
+Butaritari,95,KI,1622155495,"{'temp': 83.91, 'feels_like': 93.36, 'temp_min': 83.91, 'temp_max': 83.91, 'pressure': 1010, 'humidity': 79, 'sea_level': 1010, 'grnd_level': 1009}",3.0707,172.7902,83.91,18.88
+Chokurdakh,5,RU,1622155495,"{'temp': 40.98, 'feels_like': 34.54, 'temp_min': 40.98, 'temp_max': 40.98, 'pressure': 1013, 'humidity': 57, 'sea_level': 1013, 'grnd_level': 1009}",70.6333,147.9167,40.98,10.8
+Dingle,93,PH,1622155495,"{'temp': 82, 'feels_like': 88.56, 'temp_min': 82, 'temp_max': 82, 'pressure': 1012, 'humidity': 79, 'sea_level': 1012, 'grnd_level': 1008}",10.9995,122.6711,82.0,3.47
+Bengkulu,97,ID,1622155496,"{'temp': 76.21, 'feels_like': 77.76, 'temp_min': 76.21, 'temp_max': 76.21, 'pressure': 1011, 'humidity': 90, 'sea_level': 1011, 'grnd_level': 1009}",-3.8004,102.2655,76.21,3.87
+Kungurtug,64,RU,1622155496,"{'temp': 49.26, 'feels_like': 49.26, 'temp_min': 49.26, 'temp_max': 49.26, 'pressure': 1006, 'humidity': 76, 'sea_level': 1006, 'grnd_level': 861}",50.5994,97.5228,49.26,1.72
+Coelho Neto,38,BR,1622155496,"{'temp': 75.49, 'feels_like': 75.97, 'temp_min': 75.49, 'temp_max': 75.49, 'pressure': 1010, 'humidity': 69, 'sea_level': 1010, 'grnd_level': 1003}",-4.2567,-43.0128,75.49,2.75
+Damietta,0,EG,1622155496,"{'temp': 75.09, 'feels_like': 75.83, 'temp_min': 75.09, 'temp_max': 75.09, 'pressure': 1011, 'humidity': 75, 'sea_level': 1011, 'grnd_level': 1010}",31.4165,31.8133,75.09,7.52
+Hambantota,99,LK,1622155497,"{'temp': 80.29, 'feels_like': 84.87, 'temp_min': 80.29, 'temp_max': 80.29, 'pressure': 1008, 'humidity': 80, 'sea_level': 1008, 'grnd_level': 1006}",6.1241,81.1185,80.29,22.1
+Muisne,89,EC,1622155497,"{'temp': 84.31, 'feels_like': 97.34, 'temp_min': 84.31, 'temp_max': 84.31, 'pressure': 1011, 'humidity': 86, 'sea_level': 1011, 'grnd_level': 1011}",0.6,-80.0333,84.31,11.77
+Ponta do Sol,39,PT,1622155497,"{'temp': 64.18, 'feels_like': 63.82, 'temp_min': 63.01, 'temp_max': 65.71, 'pressure': 1019, 'humidity': 75, 'sea_level': 1019, 'grnd_level': 1019}",32.6667,-17.1,65.71,3.87
+Moctezuma,54,MX,1622155498,"{'temp': 96.44, 'feels_like': 91.36, 'temp_min': 96.44, 'temp_max': 96.44, 'pressure': 1010, 'humidity': 8, 'sea_level': 1010, 'grnd_level': 943}",29.8,-109.6667,96.44,15.37
+Rio Grande,0,BR,1622155483,"{'temp': 58.95, 'feels_like': 58.01, 'temp_min': 58.95, 'temp_max': 58.95, 'pressure': 1011, 'humidity': 74, 'sea_level': 1011, 'grnd_level': 1010}",-32.035,-52.0986,58.95,6.98
+Kieta,100,PG,1622155498,"{'temp': 78.85, 'feels_like': 78.85, 'temp_min': 78.85, 'temp_max': 78.85, 'pressure': 1012, 'humidity': 90, 'sea_level': 1012, 'grnd_level': 1009}",-6.2167,155.6333,78.85,3.76
+Huambo,0,AO,1622155498,"{'temp': 52.05, 'feels_like': 49.35, 'temp_min': 52.05, 'temp_max': 52.05, 'pressure': 1019, 'humidity': 51, 'sea_level': 1019, 'grnd_level': 833}",-12.7761,15.7392,52.05,1.01
+Pangnirtung,20,CA,1622155499,"{'temp': 32, 'feels_like': 22.05, 'temp_min': 32, 'temp_max': 32, 'pressure': 1009, 'humidity': 80}",66.1451,-65.7125,32.0,13.8
+Nemuro,100,JP,1622155499,"{'temp': 43.16, 'feels_like': 36.52, 'temp_min': 43.16, 'temp_max': 43.16, 'pressure': 1004, 'humidity': 98, 'sea_level': 1004, 'grnd_level': 1001}",43.3236,145.575,43.16,12.93
+Kununurra,7,AU,1622155499,"{'temp': 73.38, 'feels_like': 71.98, 'temp_min': 73.38, 'temp_max': 73.38, 'pressure': 1019, 'humidity': 33}",-15.7667,128.7333,73.38,12.66
+Thinadhoo,94,MV,1622155500,"{'temp': 84.69, 'feels_like': 91.99, 'temp_min': 84.69, 'temp_max': 84.69, 'pressure': 1010, 'humidity': 70, 'sea_level': 1010, 'grnd_level': 1010}",0.5333,72.9333,84.69,20.69
+São Filipe,4,CV,1622155500,"{'temp': 73.63, 'feels_like': 74.26, 'temp_min': 73.63, 'temp_max': 73.63, 'pressure': 1015, 'humidity': 76, 'sea_level': 1015, 'grnd_level': 1003}",14.8961,-24.4956,73.63,5.46
+Samokov,100,BG,1622155500,"{'temp': 55.45, 'feels_like': 55.11, 'temp_min': 52.68, 'temp_max': 57.02, 'pressure': 1014, 'humidity': 94, 'sea_level': 1014, 'grnd_level': 906}",42.3333,23.55,57.02,3.8
+Albeşti,100,RO,1622155501,"{'temp': 62.22, 'feels_like': 62.62, 'temp_min': 59.14, 'temp_max': 63.01, 'pressure': 1013, 'humidity': 95, 'sea_level': 1013, 'grnd_level': 1005}",47.7,27.0667,63.01,2.62
+Yellowknife,75,CA,1622155501,"{'temp': 57.72, 'feels_like': 54.99, 'temp_min': 57.29, 'temp_max': 57.72, 'pressure': 1003, 'humidity': 38}",62.456,-114.3525,57.72,11.5
+Port Keats,63,AU,1622155501,"{'temp': 70.74, 'feels_like': 69.71, 'temp_min': 70.74, 'temp_max': 70.74, 'pressure': 1018, 'humidity': 47, 'sea_level': 1018, 'grnd_level': 1015}",-14.25,129.55,70.74,11.65
+Zavyalovo,15,RU,1622155502,"{'temp': 42.62, 'feels_like': 34.83, 'temp_min': 42.62, 'temp_max': 44.26, 'pressure': 1015, 'humidity': 67, 'sea_level': 1015, 'grnd_level': 1000}",54.5053,82.4484,44.26,16.31
+Teguise,75,ES,1622155502,"{'temp': 64.62, 'feels_like': 64.2, 'temp_min': 64.62, 'temp_max': 64.62, 'pressure': 1016, 'humidity': 73, 'sea_level': 1016, 'grnd_level': 981}",29.0605,-13.564,64.62,14.27
+Hamilton,20,US,1622155502,"{'temp': 79.97, 'feels_like': 79.97, 'temp_min': 77.34, 'temp_max': 82.15, 'pressure': 1014, 'humidity': 59}",39.1834,-84.5333,82.15,5.17
+Vardø,79,NO,1622155503,"{'temp': 37.6, 'feels_like': 26.35, 'temp_min': 37.6, 'temp_max': 37.6, 'pressure': 1006, 'humidity': 76, 'sea_level': 1006, 'grnd_level': 1005}",70.3705,31.1107,37.6,24.16
+Tessalit,96,ML,1622155503,"{'temp': 93.13, 'feels_like': 88.61, 'temp_min': 93.13, 'temp_max': 93.13, 'pressure': 1009, 'humidity': 6, 'sea_level': 1009, 'grnd_level': 953}",20.1986,1.0114,93.13,11.86
+Bethel,20,US,1622155503,"{'temp': 73.74, 'feels_like': 73.31, 'temp_min': 68.86, 'temp_max': 77.92, 'pressure': 1012, 'humidity': 53}",41.3712,-73.414,77.92,18.41
+Ilulissat,78,GL,1622155504,"{'temp': 55.42, 'feels_like': 52.07, 'temp_min': 55.42, 'temp_max': 55.42, 'pressure': 1010, 'humidity': 30}",69.2167,-51.1,55.42,17.27
+Virginia Beach,20,US,1622155477,"{'temp': 79.93, 'feels_like': 79.93, 'temp_min': 75.99, 'temp_max': 84.27, 'pressure': 1015, 'humidity': 61}",36.8529,-75.978,84.27,11.5
+Omboué,95,GA,1622155505,"{'temp': 75.85, 'feels_like': 77.45, 'temp_min': 75.85, 'temp_max': 75.85, 'pressure': 1012, 'humidity': 92, 'sea_level': 1012, 'grnd_level': 1012}",-1.5746,9.2618,75.85,4.76
+Gorontalo,24,ID,1622155505,"{'temp': 79.3, 'feels_like': 79.3, 'temp_min': 79.3, 'temp_max': 79.3, 'pressure': 1012, 'humidity': 87, 'sea_level': 1012, 'grnd_level': 1012}",0.5412,123.0595,79.3,3.2
+Margate,74,GB,1622155505,"{'temp': 50.31, 'feels_like': 48.76, 'temp_min': 48.87, 'temp_max': 53.74, 'pressure': 1006, 'humidity': 79}",51.3813,1.3862,53.74,1.99
+Thompson,75,CA,1622155505,"{'temp': 57.36, 'feels_like': 54.12, 'temp_min': 57.36, 'temp_max': 57.36, 'pressure': 1022, 'humidity': 28}",55.7435,-97.8558,57.36,8.05
+Havre-St-Pierre,40,CA,1622155506,"{'temp': 46.76, 'feels_like': 38.57, 'temp_min': 43.39, 'temp_max': 46.76, 'pressure': 1005, 'humidity': 39}",50.2334,-63.5986,46.76,24.16
+Zhigansk,6,RU,1622155506,"{'temp': 49.33, 'feels_like': 42.82, 'temp_min': 49.33, 'temp_max': 49.33, 'pressure': 1010, 'humidity': 66, 'sea_level': 1010, 'grnd_level': 1005}",66.7697,123.3711,49.33,19.55
+Hong Kong,99,HK,1622155282,"{'temp': 84.88, 'feels_like': 98.74, 'temp_min': 84.04, 'temp_max': 86.32, 'pressure': 1010, 'humidity': 85}",22.2855,114.1577,86.32,4.0
+Korla,43,CN,1622155506,"{'temp': 72.23, 'feels_like': 69.94, 'temp_min': 72.23, 'temp_max': 72.23, 'pressure': 1006, 'humidity': 17, 'sea_level': 1006, 'grnd_level': 903}",41.7597,86.1469,72.23,1.5
+Maputo,0,MZ,1622155507,"{'temp': 65.97, 'feels_like': 65.93, 'temp_min': 61.66, 'temp_max': 66.22, 'pressure': 1017, 'humidity': 78}",-25.9653,32.5892,66.22,1.01
+Castro,73,BR,1622155507,"{'temp': 59.76, 'feels_like': 59.43, 'temp_min': 59.76, 'temp_max': 59.76, 'pressure': 1015, 'humidity': 85, 'sea_level': 1015, 'grnd_level': 903}",-24.7911,-50.0119,59.76,3.09
+Hofn,99,IS,1622155507,"{'temp': 43.25, 'feels_like': 37.87, 'temp_min': 43.25, 'temp_max': 43.25, 'pressure': 1022, 'humidity': 76, 'sea_level': 1022, 'grnd_level': 1021}",64.2539,-15.2082,43.25,9.51
+Ardabil,0,IR,1622155508,"{'temp': 55.13, 'feels_like': 54.34, 'temp_min': 55.13, 'temp_max': 55.13, 'pressure': 1013, 'humidity': 85, 'sea_level': 1013, 'grnd_level': 865}",38.2498,48.2933,55.13,0.16
+Yudong,100,CN,1622155508,"{'temp': 70.39, 'feels_like': 70.99, 'temp_min': 70.39, 'temp_max': 70.39, 'pressure': 1011, 'humidity': 82, 'sea_level': 1011, 'grnd_level': 986}",29.385,106.5194,70.39,0.6
+Andrews,1,US,1622155508,"{'temp': 93.09, 'feels_like': 88.88, 'temp_min': 72.05, 'temp_max': 93.6, 'pressure': 1014, 'humidity': 16}",32.3187,-102.5457,93.6,0.0
+Port Elizabeth,0,ZA,1622155509,"{'temp': 62.89, 'feels_like': 62.02, 'temp_min': 58.1, 'temp_max': 62.89, 'pressure': 1013, 'humidity': 67}",-33.918,25.5701,62.89,12.66
+Sakakah,0,SA,1622155325,"{'temp': 83.77, 'feels_like': 80.92, 'temp_min': 83.77, 'temp_max': 83.77, 'pressure': 1008, 'humidity': 12, 'sea_level': 1008, 'grnd_level': 948}",29.9697,40.2064,83.77,4.25
+Unity,34,CA,1622155509,"{'temp': 68.02, 'feels_like': 66.49, 'temp_min': 68.02, 'temp_max': 68.02, 'pressure': 1007, 'humidity': 42, 'sea_level': 1007, 'grnd_level': 935}",52.4501,-109.1682,68.02,23.67
+Utiel,100,ES,1622155509,"{'temp': 57.24, 'feels_like': 55.58, 'temp_min': 55, 'temp_max': 58.64, 'pressure': 1017, 'humidity': 62, 'sea_level': 1017, 'grnd_level': 933}",39.5667,-1.2,58.64,4.7
+Dombarovskiy,0,RU,1622155510,"{'temp': 60.13, 'feels_like': 58.06, 'temp_min': 60.13, 'temp_max': 60.13, 'pressure': 1019, 'humidity': 47, 'sea_level': 1019, 'grnd_level': 987}",50.7587,59.5386,60.13,12.28
+Nikolskoye,84,RU,1622155510,"{'temp': 49.86, 'feels_like': 47.26, 'temp_min': 49.78, 'temp_max': 52.39, 'pressure': 1013, 'humidity': 98, 'sea_level': 1013, 'grnd_level': 1009}",59.7035,30.7861,52.39,6.46
+Nizwá,0,OM,1622155510,"{'temp': 82.56, 'feels_like': 80.17, 'temp_min': 82.56, 'temp_max': 82.56, 'pressure': 1004, 'humidity': 18, 'sea_level': 1004, 'grnd_level': 947}",22.9333,57.5333,82.56,4.32
+Klaksvík,80,FO,1622155511,"{'temp': 43.72, 'feels_like': 36.61, 'temp_min': 43.72, 'temp_max': 43.72, 'pressure': 1023, 'humidity': 88, 'sea_level': 1023, 'grnd_level': 1020}",62.2266,-6.589,43.72,14.94
+Awjilah,7,LY,1622155511,"{'temp': 78.28, 'feels_like': 77.31, 'temp_min': 78.28, 'temp_max': 78.28, 'pressure': 1014, 'humidity': 32, 'sea_level': 1014, 'grnd_level': 1010}",29.1081,21.2869,78.28,10.33
+Bargarh,99,IN,1622155214,"{'temp': 77.74, 'feels_like': 78.37, 'temp_min': 77.74, 'temp_max': 77.74, 'pressure': 1001, 'humidity': 67, 'sea_level': 1001, 'grnd_level': 981}",21.3333,83.6167,77.74,2.75
+Marsh Harbour,100,BS,1622155511,"{'temp': 77.59, 'feels_like': 78.44, 'temp_min': 77.59, 'temp_max': 77.59, 'pressure': 1019, 'humidity': 72, 'sea_level': 1019, 'grnd_level': 1018}",26.5412,-77.0636,77.59,8.01
+Nhulunbuy,40,AU,1622155512,"{'temp': 79.41, 'feels_like': 79.41, 'temp_min': 79.41, 'temp_max': 79.41, 'pressure': 1015, 'humidity': 69}",-12.2333,136.7667,79.41,8.05
+Karratha,73,AU,1622155512,"{'temp': 73.47, 'feels_like': 73.67, 'temp_min': 73.47, 'temp_max': 73.47, 'pressure': 1018, 'humidity': 67, 'sea_level': 1018, 'grnd_level': 1016}",-20.7377,116.8463,73.47,9.73
+Thaton,91,MM,1622155512,"{'temp': 78.49, 'feels_like': 80.31, 'temp_min': 78.49, 'temp_max': 78.49, 'pressure': 1008, 'humidity': 91, 'sea_level': 1008, 'grnd_level': 1004}",16.9206,97.3714,78.49,2.77
+Corpus Christi,75,US,1622155295,"{'temp': 84.63, 'feels_like': 95.34, 'temp_min': 81.97, 'temp_max': 88.36, 'pressure': 1012, 'humidity': 79}",27.8006,-97.3964,88.36,8.01
+Saint-Pierre,90,RE,1622155513,"{'temp': 70.81, 'feels_like': 71.35, 'temp_min': 70.29, 'temp_max': 71.28, 'pressure': 1018, 'humidity': 80}",-21.3393,55.4781,71.28,8.05
+Mocuba,0,MZ,1622155513,"{'temp': 60.28, 'feels_like': 60.57, 'temp_min': 60.28, 'temp_max': 60.28, 'pressure': 1020, 'humidity': 97, 'sea_level': 1020, 'grnd_level': 1002}",-16.8392,36.9856,60.28,2.62
+Katsuura,100,JP,1622155513,"{'temp': 65.62, 'feels_like': 65.7, 'temp_min': 64.24, 'temp_max': 68.14, 'pressure': 1006, 'humidity': 81, 'sea_level': 1006, 'grnd_level': 1006}",35.1333,140.3,68.14,6.6
+Constitución,100,CL,1622155351,"{'temp': 56.26, 'feels_like': 56.01, 'temp_min': 56.26, 'temp_max': 56.26, 'pressure': 1016, 'humidity': 94, 'sea_level': 1016, 'grnd_level': 1013}",-35.3333,-72.4167,56.26,4.74
+Rosario,0,AR,1622155440,"{'temp': 64.13, 'feels_like': 63.54, 'temp_min': 55.58, 'temp_max': 64.81, 'pressure': 1004, 'humidity': 70}",-32.9468,-60.6393,64.81,4.0
+Kuusamo,0,FI,1622155514,"{'temp': 39.24, 'feels_like': 33.04, 'temp_min': 39.24, 'temp_max': 39.24, 'pressure': 1009, 'humidity': 75}",65.9667,29.1833,39.24,9.22
+Oktyabr'skiy,0,RU,1622155514,"{'temp': 49.15, 'feels_like': 49.15, 'temp_min': 49.15, 'temp_max': 49.15, 'pressure': 1021, 'humidity': 87, 'sea_level': 1021, 'grnd_level': 1005}",54.4815,53.471,49.15,2.51
+Russell,90,US,1622155506,"{'temp': 81.07, 'feels_like': 84.07, 'temp_min': 78.15, 'temp_max': 85.96, 'pressure': 1015, 'humidity': 66, 'sea_level': 1015, 'grnd_level': 999}",32.3502,-85.1999,85.96,5.91
+Christchurch,75,NZ,1622155515,"{'temp': 48.02, 'feels_like': 48.02, 'temp_min': 46.33, 'temp_max': 48.9, 'pressure': 999, 'humidity': 92}",-43.5333,172.6333,48.9,2.3
+Cerrito,95,CO,1622155515,"{'temp': 52.99, 'feels_like': 52.36, 'temp_min': 52.99, 'temp_max': 52.99, 'pressure': 1018, 'humidity': 93, 'sea_level': 1018, 'grnd_level': 756}",6.8432,-72.694,52.99,4.79
+Sucúa,40,EC,1622155515,"{'temp': 81.34, 'feels_like': 84.33, 'temp_min': 81.34, 'temp_max': 81.34, 'pressure': 1014, 'humidity': 65, 'sea_level': 1014, 'grnd_level': 923}",-2.4667,-78.1667,81.34,0.87
+Sambava,2,MG,1622155516,"{'temp': 70.21, 'feels_like': 70.97, 'temp_min': 70.21, 'temp_max': 70.21, 'pressure': 1017, 'humidity': 86, 'sea_level': 1017, 'grnd_level': 1016}",-14.2667,50.1667,70.21,7.54
+Tabou,40,CI,1622155516,"{'temp': 79.47, 'feels_like': 79.47, 'temp_min': 79.47, 'temp_max': 79.47, 'pressure': 1012, 'humidity': 84, 'sea_level': 1012, 'grnd_level': 1011}",4.423,-7.3528,79.47,6.67
+Vostok,100,RU,1622155516,"{'temp': 50.09, 'feels_like': 47.89, 'temp_min': 50.09, 'temp_max': 50.09, 'pressure': 1003, 'humidity': 66, 'sea_level': 1003, 'grnd_level': 934}",46.4856,135.8833,50.09,1.59
+Thap Than,100,TH,1622155517,"{'temp': 77.52, 'feels_like': 79.25, 'temp_min': 77.52, 'temp_max': 77.52, 'pressure': 1008, 'humidity': 91, 'sea_level': 1008, 'grnd_level': 1003}",15.4606,99.8917,77.52,4.41
+Kenai,1,US,1622155517,"{'temp': 53.71, 'feels_like': 51.64, 'temp_min': 51.85, 'temp_max': 63.03, 'pressure': 1005, 'humidity': 61}",60.5544,-151.2583,63.03,28.77
+Qaanaaq,100,GL,1622155517,"{'temp': 37.49, 'feels_like': 32.09, 'temp_min': 37.49, 'temp_max': 37.49, 'pressure': 1014, 'humidity': 75, 'sea_level': 1014, 'grnd_level': 1010}",77.484,-69.3632,37.49,7.02
+Takaka,100,NZ,1622155518,"{'temp': 54.54, 'feels_like': 54.01, 'temp_min': 51.39, 'temp_max': 54.55, 'pressure': 1001, 'humidity': 92, 'sea_level': 1001, 'grnd_level': 999}",-40.85,172.8,54.55,3.27
+Ocós,93,GT,1622155518,"{'temp': 82.2, 'feels_like': 86.83, 'temp_min': 80.69, 'temp_max': 84.31, 'pressure': 1010, 'humidity': 70, 'sea_level': 1010, 'grnd_level': 1009}",14.5094,-92.1933,84.31,7.63
+Avarua,75,CK,1622155518,"{'temp': 84.25, 'feels_like': 94.3, 'temp_min': 84.25, 'temp_max': 84.25, 'pressure': 1011, 'humidity': 79}",-21.2078,-159.775,84.25,14.97
+Khatanga,98,RU,1622155519,"{'temp': 28.2, 'feels_like': 19.31, 'temp_min': 28.2, 'temp_max': 28.2, 'pressure': 1018, 'humidity': 88, 'sea_level': 1018, 'grnd_level': 1014}",71.9667,102.5,28.2,9.48
+Faanui,62,PF,1622155519,"{'temp': 80.73, 'feels_like': 84.47, 'temp_min': 80.73, 'temp_max': 80.73, 'pressure': 1013, 'humidity': 72, 'sea_level': 1013, 'grnd_level': 1013}",-16.4833,-151.75,80.73,11.81
+Tanabe,100,JP,1622155519,"{'temp': 67.93, 'feels_like': 68.09, 'temp_min': 67.93, 'temp_max': 67.93, 'pressure': 1008, 'humidity': 78}",33.7333,135.3667,67.93,2.64
+Jos,100,NG,1622155520,"{'temp': 70.9, 'feels_like': 70.88, 'temp_min': 70.9, 'temp_max': 70.9, 'pressure': 1013, 'humidity': 68, 'sea_level': 1013, 'grnd_level': 885}",9.9167,8.9,70.9,5.19
+Latung,65,PH,1622155520,"{'temp': 83.17, 'feels_like': 89.02, 'temp_min': 83.17, 'temp_max': 83.17, 'pressure': 1011, 'humidity': 71, 'sea_level': 1011, 'grnd_level': 1011}",5.5,120.8833,83.17,3.22
+Clyde River,90,CA,1622155256,"{'temp': 28.63, 'feels_like': 13.55, 'temp_min': 28.63, 'temp_max': 28.63, 'pressure': 1009, 'humidity': 86}",70.4692,-68.5914,28.63,27.63
+Kargil,0,IN,1622155520,"{'temp': 41.52, 'feels_like': 39.88, 'temp_min': 41.52, 'temp_max': 41.52, 'pressure': 1019, 'humidity': 36, 'sea_level': 1019, 'grnd_level': 677}",34.5667,76.1,41.52,3.18
+Tual,78,ID,1622155521,"{'temp': 81.88, 'feels_like': 87.31, 'temp_min': 81.88, 'temp_max': 81.88, 'pressure': 1012, 'humidity': 75, 'sea_level': 1012, 'grnd_level': 1012}",-5.6667,132.75,81.88,22.24
+Flin Flon,75,CA,1622155521,"{'temp': 57.04, 'feels_like': 54.09, 'temp_min': 57.04, 'temp_max': 57.04, 'pressure': 1017, 'humidity': 35, 'sea_level': 1017, 'grnd_level': 981}",54.7682,-101.865,57.04,13.49
+San Patricio,38,US,1622155521,"{'temp': 84.81, 'feels_like': 93.02, 'temp_min': 81.82, 'temp_max': 88.52, 'pressure': 1012, 'humidity': 72, 'sea_level': 1012, 'grnd_level': 1011}",28.017,-97.5169,88.52,17.96
+Diamantino,42,BR,1622155427,"{'temp': 78.28, 'feels_like': 78.35, 'temp_min': 78.28, 'temp_max': 78.28, 'pressure': 1011, 'humidity': 54, 'sea_level': 1011, 'grnd_level': 978}",-14.4086,-56.4461,78.28,2.75
+Talnakh,45,RU,1622155522,"{'temp': 17.33, 'feels_like': 17.33, 'temp_min': 17.33, 'temp_max': 17.33, 'pressure': 1012, 'humidity': 82, 'sea_level': 1012, 'grnd_level': 1004}",69.4865,88.3972,17.33,0.98
+Adré,84,TD,1622155522,"{'temp': 83.97, 'feels_like': 82.96, 'temp_min': 83.97, 'temp_max': 83.97, 'pressure': 1012, 'humidity': 38, 'sea_level': 1012, 'grnd_level': 926}",13.4667,22.2,83.97,5.23
+Haines Junction,100,CA,1622155522,"{'temp': 57.15, 'feels_like': 54.34, 'temp_min': 57.15, 'temp_max': 57.15, 'pressure': 1004, 'humidity': 38}",60.7522,-137.5108,57.15,11.5
+Reinosa,100,ES,1622155523,"{'temp': 48.24, 'feels_like': 48.24, 'temp_min': 47.26, 'temp_max': 49.21, 'pressure': 1017, 'humidity': 81, 'sea_level': 1017, 'grnd_level': 920}",42.9996,-4.138,49.21,2.17
+Barcelos,100,PT,1622155523,"{'temp': 60.96, 'feels_like': 60.8, 'temp_min': 56.88, 'temp_max': 67.28, 'pressure': 1016, 'humidity': 86, 'sea_level': 1016, 'grnd_level': 1011}",41.5388,-8.6151,67.28,3.29
+Shorap’ani,20,GE,1622155523,"{'temp': 58.59, 'feels_like': 57.67, 'temp_min': 58.59, 'temp_max': 58.59, 'pressure': 1012, 'humidity': 75, 'sea_level': 1012, 'grnd_level': 984}",42.0898,43.0866,58.59,4.34
+Broken Hill,90,AU,1622155523,"{'temp': 46.11, 'feels_like': 41.09, 'temp_min': 46.11, 'temp_max': 46.11, 'pressure': 1032, 'humidity': 93}",-31.95,141.4333,46.11,10.36
+Emmett,98,US,1622155524,"{'temp': 78.73, 'feels_like': 78.73, 'temp_min': 75.94, 'temp_max': 82.56, 'pressure': 1012, 'humidity': 30}",43.8735,-116.4993,82.56,1.01
+Cabo San Lucas,20,MX,1622155282,"{'temp': 90.03, 'feels_like': 87.37, 'temp_min': 85.05, 'temp_max': 98.51, 'pressure': 1014, 'humidity': 27}",22.8909,-109.9124,98.51,6.91
+Ligayan,67,PH,1622155524,"{'temp': 83.93, 'feels_like': 90.01, 'temp_min': 83.93, 'temp_max': 83.93, 'pressure': 1011, 'humidity': 69, 'sea_level': 1011, 'grnd_level': 1011}",4.6533,119.4706,83.93,2.55
+Eydhafushi,94,MV,1622155524,"{'temp': 81.9, 'feels_like': 88.29, 'temp_min': 81.9, 'temp_max': 81.9, 'pressure': 1010, 'humidity': 79, 'sea_level': 1010, 'grnd_level': 1010}",5.1033,73.0708,81.9,21.77
+Oranjestad,20,AW,1622155281,"{'temp': 82.9, 'feels_like': 90.75, 'temp_min': 82.9, 'temp_max': 84.15, 'pressure': 1015, 'humidity': 79}",12.524,-70.027,84.15,8.01
+Chapais,100,CA,1622155525,"{'temp': 35.38, 'feels_like': 26.44, 'temp_min': 35.38, 'temp_max': 35.38, 'pressure': 1020, 'humidity': 35, 'sea_level': 1020, 'grnd_level': 971}",49.7834,-74.8492,35.38,13.53
+Kailua,78,US,1622155525,"{'temp': 84.22, 'feels_like': 89.35, 'temp_min': 82.74, 'temp_max': 86.02, 'pressure': 1019, 'humidity': 65, 'sea_level': 1019, 'grnd_level': 1019}",21.4022,-157.7394,86.02,11.59
+Khāsh,0,IR,1622155525,"{'temp': 74.57, 'feels_like': 72.63, 'temp_min': 74.57, 'temp_max': 74.57, 'pressure': 1007, 'humidity': 19, 'sea_level': 1007, 'grnd_level': 858}",28.2211,61.2158,74.57,4.25
+Ixtapa,1,MX,1622155526,"{'temp': 83.43, 'feels_like': 89.26, 'temp_min': 83.43, 'temp_max': 83.43, 'pressure': 1011, 'humidity': 70}",20.7,-105.2,83.43,12.66
+Waycross,40,US,1622155526,"{'temp': 91.36, 'feels_like': 92.75, 'temp_min': 86.61, 'temp_max': 92.32, 'pressure': 1016, 'humidity': 40}",31.2136,-82.354,92.32,6.91
+Hasaki,100,JP,1622155526,"{'temp': 67.05, 'feels_like': 67.12, 'temp_min': 61.09, 'temp_max': 68.4, 'pressure': 1006, 'humidity': 78, 'sea_level': 1006, 'grnd_level': 1005}",35.7333,140.8333,68.4,3.91
+Marondera,0,ZW,1622155527,"{'temp': 45.37, 'feels_like': 43.95, 'temp_min': 45.37, 'temp_max': 45.37, 'pressure': 1023, 'humidity': 50, 'sea_level': 1023, 'grnd_level': 839}",-18.1853,31.5519,45.37,3.51
+Sur,1,OM,1622155527,"{'temp': 86.59, 'feels_like': 89.74, 'temp_min': 86.59, 'temp_max': 86.59, 'pressure': 1001, 'humidity': 53, 'sea_level': 1001, 'grnd_level': 1001}",22.5667,59.5289,86.59,1.05
+Namatanai,100,PG,1622155527,"{'temp': 77.88, 'feels_like': 79.59, 'temp_min': 77.88, 'temp_max': 77.88, 'pressure': 1012, 'humidity': 90, 'sea_level': 1012, 'grnd_level': 1006}",-3.6667,152.4333,77.88,7.65
+Faya,13,SA,1622155528,"{'temp': 70.32, 'feels_like': 68.09, 'temp_min': 69.91, 'temp_max': 70.32, 'pressure': 1014, 'humidity': 22, 'sea_level': 1014, 'grnd_level': 790}",18.3851,42.4509,70.32,5.86
+Huilong,99,CN,1622155528,"{'temp': 71.98, 'feels_like': 73.06, 'temp_min': 71.98, 'temp_max': 75.04, 'pressure': 1005, 'humidity': 89, 'sea_level': 1005, 'grnd_level': 1004}",31.8111,121.655,75.04,11.63
+Rawson,89,AR,1622155528,"{'temp': 56.03, 'feels_like': 53.31, 'temp_min': 56.03, 'temp_max': 56.03, 'pressure': 992, 'humidity': 42, 'sea_level': 992, 'grnd_level': 991}",-43.3002,-65.1023,56.03,16.42
+Taoudenni,48,ML,1622155529,"{'temp': 100.08, 'feels_like': 95.67, 'temp_min': 100.08, 'temp_max': 100.08, 'pressure': 1008, 'humidity': 14, 'sea_level': 1008, 'grnd_level': 992}",22.6783,-3.9836,100.08,10.67
+Pyinmana,80,MM,1622155529,"{'temp': 77.09, 'feels_like': 78.03, 'temp_min': 77.09, 'temp_max': 77.09, 'pressure': 1008, 'humidity': 75, 'sea_level': 1008, 'grnd_level': 997}",19.7333,96.2167,77.09,4.56
+Longyearbyen,40,SJ,1622155501,"{'temp': 30.04, 'feels_like': 19.54, 'temp_min': 30.04, 'temp_max': 30.04, 'pressure': 1011, 'humidity': 64}",78.2186,15.6401,30.04,13.8
+Watsa,100,CD,1622155529,"{'temp': 64.35, 'feels_like': 65.05, 'temp_min': 64.35, 'temp_max': 64.35, 'pressure': 1014, 'humidity': 97, 'sea_level': 1014, 'grnd_level': 902}",3.0372,29.5355,64.35,0.74
+Mineros,41,BO,1622155530,"{'temp': 80.19, 'feels_like': 82.04, 'temp_min': 80.19, 'temp_max': 80.19, 'pressure': 1008, 'humidity': 60, 'sea_level': 1008, 'grnd_level': 979}",-17.1167,-63.2333,80.19,6.51
+Amazar,59,RU,1622155530,"{'temp': 45.95, 'feels_like': 45.95, 'temp_min': 45.95, 'temp_max': 45.95, 'pressure': 1005, 'humidity': 78, 'sea_level': 1005, 'grnd_level': 950}",53.858,120.875,45.95,2.33
+Alugan,50,PH,1622155530,"{'temp': 82.36, 'feels_like': 90.82, 'temp_min': 82.36, 'temp_max': 82.36, 'pressure': 1012, 'humidity': 84, 'sea_level': 1012, 'grnd_level': 1010}",12.2188,125.4808,82.36,7.99
+Banda Aceh,98,ID,1622155531,"{'temp': 81.16, 'feels_like': 85.26, 'temp_min': 81.16, 'temp_max': 81.16, 'pressure': 1010, 'humidity': 72, 'sea_level': 1010, 'grnd_level': 1009}",5.5577,95.3222,81.16,12.28
+Xiongzhou,91,CN,1622155285,"{'temp': 77.74, 'feels_like': 79.54, 'temp_min': 77.74, 'temp_max': 77.74, 'pressure': 1010, 'humidity': 92, 'sea_level': 1010, 'grnd_level': 996}",25.1167,114.3,77.74,2.84
+Harūr,18,IN,1622155531,"{'temp': 77.23, 'feels_like': 77.85, 'temp_min': 77.23, 'temp_max': 77.23, 'pressure': 1007, 'humidity': 68, 'sea_level': 1007, 'grnd_level': 968}",12.0667,78.5,77.23,4.43
+Beloha,0,MG,1622155531,"{'temp': 62.74, 'feels_like': 63.23, 'temp_min': 62.74, 'temp_max': 62.74, 'pressure': 1019, 'humidity': 96, 'sea_level': 1019, 'grnd_level': 1000}",-25.1667,45.05,62.74,5.64
+Te Anau,100,NZ,1622155532,"{'temp': 41.74, 'feels_like': 41.74, 'temp_min': 41.74, 'temp_max': 41.74, 'pressure': 1000, 'humidity': 92, 'sea_level': 1000, 'grnd_level': 975}",-45.4167,167.7167,41.74,1.86
+Sept-Îles,75,CA,1622155532,"{'temp': 45.48, 'feels_like': 42.3, 'temp_min': 45.03, 'temp_max': 46.26, 'pressure': 1007, 'humidity': 48}",50.2001,-66.3821,46.26,5.99
+Isangel,75,VU,1622155532,"{'temp': 77.11, 'feels_like': 77.95, 'temp_min': 77.11, 'temp_max': 77.11, 'pressure': 1014, 'humidity': 73, 'sea_level': 1014, 'grnd_level': 1014}",-19.55,169.2667,77.11,3.76
+Petropavlovka,76,RU,1622155533,"{'temp': 50.34, 'feels_like': 47.48, 'temp_min': 50.34, 'temp_max': 50.34, 'pressure': 1004, 'humidity': 51, 'sea_level': 1004, 'grnd_level': 925}",50.6114,105.3196,50.34,0.74
+Kavieng,100,PG,1622155524,"{'temp': 80.71, 'feels_like': 86.68, 'temp_min': 80.71, 'temp_max': 80.71, 'pressure': 1011, 'humidity': 85, 'sea_level': 1011, 'grnd_level': 1010}",-2.5744,150.7967,80.71,12.88
+Jingdezhen,97,CN,1622155533,"{'temp': 72.05, 'feels_like': 73.13, 'temp_min': 72.05, 'temp_max': 72.05, 'pressure': 1009, 'humidity': 89, 'sea_level': 1009, 'grnd_level': 1004}",29.2947,117.2079,72.05,5.82
+Stornoway,96,GB,1622155534,"{'temp': 48.9, 'feels_like': 48.04, 'temp_min': 45.93, 'temp_max': 49.96, 'pressure': 1019, 'humidity': 87}",58.2093,-6.3865,49.96,3.44
+Nanortalik,30,GL,1622155534,"{'temp': 43.03, 'feels_like': 40.3, 'temp_min': 43.03, 'temp_max': 43.03, 'pressure': 1005, 'humidity': 72, 'sea_level': 1005, 'grnd_level': 1005}",60.1432,-45.2371,43.03,4.65
+Faisalabad,0,PK,1622155534,"{'temp': 90.68, 'feels_like': 86.54, 'temp_min': 90.68, 'temp_max': 90.68, 'pressure': 997, 'humidity': 14, 'sea_level': 997, 'grnd_level': 977}",31.4167,73.0833,90.68,5.17
+Great Yarmouth,37,GB,1622155534,"{'temp': 46.69, 'feels_like': 42.98, 'temp_min': 42.28, 'temp_max': 51.94, 'pressure': 1024, 'humidity': 88, 'sea_level': 1024, 'grnd_level': 1023}",52.6083,1.7305,51.94,7.45
+Olinda,75,BR,1622155481,"{'temp': 73.13, 'feels_like': 74.28, 'temp_min': 73.13, 'temp_max': 73.13, 'pressure': 1014, 'humidity': 88, 'sea_level': 1014, 'grnd_level': 1010}",-8.0089,-34.8553,73.13,12.8
+Sumbe,2,AO,1622155535,"{'temp': 75.06, 'feels_like': 75.83, 'temp_min': 75.06, 'temp_max': 75.06, 'pressure': 1013, 'humidity': 76, 'sea_level': 1013, 'grnd_level': 1012}",-11.2061,13.8437,75.06,6.58
+Stettler,98,CA,1622155535,"{'temp': 73.15, 'feels_like': 71.33, 'temp_min': 71.44, 'temp_max': 73.15, 'pressure': 998, 'humidity': 25, 'sea_level': 998, 'grnd_level': 909}",52.3168,-112.7186,73.15,17.27
+Mogadishu,32,SO,1622155536,"{'temp': 78.37, 'feels_like': 79.75, 'temp_min': 78.37, 'temp_max': 78.37, 'pressure': 1013, 'humidity': 82, 'sea_level': 1013, 'grnd_level': 1012}",2.0371,45.3438,78.37,14.14
+Avera,25,US,1622155536,"{'temp': 89.6, 'feels_like': 89.78, 'temp_min': 85.95, 'temp_max': 93.07, 'pressure': 1014, 'humidity': 39, 'sea_level': 1014, 'grnd_level': 999}",33.194,-82.5271,93.07,10.13
+Acapulco de Juárez,75,MX,1622155360,"{'temp': 89.42, 'feels_like': 97.27, 'temp_min': 89.42, 'temp_max': 89.42, 'pressure': 1011, 'humidity': 58, 'sea_level': 1011, 'grnd_level': 1008}",16.8634,-99.8901,89.42,8.43
+Goderich,100,CA,1622155536,"{'temp': 48.24, 'feels_like': 43.36, 'temp_min': 44.56, 'temp_max': 50.2, 'pressure': 1023, 'humidity': 61}",43.7501,-81.7165,50.2,11.5
+Aykhal,92,RU,1622155537,"{'temp': 47.43, 'feels_like': 41.9, 'temp_min': 47.43, 'temp_max': 47.43, 'pressure': 1014, 'humidity': 78, 'sea_level': 1014, 'grnd_level': 959}",66.0,111.5,47.43,12.97
+Wellington,75,NZ,1622155537,"{'temp': 53.67, 'feels_like': 52.21, 'temp_min': 53.26, 'temp_max': 54.82, 'pressure': 999, 'humidity': 74}",-41.2866,174.7756,54.82,1.01
+Dehlorān,0,IR,1622155537,"{'temp': 88.38, 'feels_like': 84.58, 'temp_min': 88.38, 'temp_max': 88.38, 'pressure': 1006, 'humidity': 15, 'sea_level': 1006, 'grnd_level': 981}",32.6941,47.2679,88.38,8.86
+Ancud,100,CL,1622155538,"{'temp': 49.53, 'feels_like': 41.7, 'temp_min': 49.53, 'temp_max': 50.43, 'pressure': 999, 'humidity': 86, 'sea_level': 999, 'grnd_level': 993}",-41.8697,-73.8203,50.43,27.92
+La Ronge,75,CA,1622155538,"{'temp': 64.65, 'feels_like': 61.99, 'temp_min': 64.62, 'temp_max': 64.65, 'pressure': 1014, 'humidity': 25}",55.1001,-105.2842,64.65,14.97
+Cuiabá,0,BR,1622155537,"{'temp': 85.93, 'feels_like': 87.24, 'temp_min': 85.93, 'temp_max': 85.93, 'pressure': 1010, 'humidity': 48}",-15.5961,-56.0967,85.93,3.44
+Abalak,40,RU,1622155538,"{'temp': 36.61, 'feels_like': 33.06, 'temp_min': 36.61, 'temp_max': 36.61, 'pressure': 1022, 'humidity': 86, 'sea_level': 1022, 'grnd_level': 1010}",58.1286,68.5944,36.61,4.34
+Montepuez,54,MZ,1622155539,"{'temp': 60.94, 'feels_like': 60.93, 'temp_min': 60.94, 'temp_max': 60.94, 'pressure': 1018, 'humidity': 89, 'sea_level': 1018, 'grnd_level': 957}",-13.1256,38.9997,60.94,3.71
+Morwell,72,AU,1622155539,"{'temp': 47.46, 'feels_like': 46.04, 'temp_min': 46.35, 'temp_max': 48.9, 'pressure': 1031, 'humidity': 87, 'sea_level': 1031, 'grnd_level': 1021}",-38.2333,146.4,48.9,3.87
+Garut,70,ID,1622155539,"{'temp': 67.77, 'feels_like': 68.56, 'temp_min': 67.77, 'temp_max': 67.77, 'pressure': 1015, 'humidity': 92, 'sea_level': 1015, 'grnd_level': 930}",-7.2024,107.8878,67.77,0.58
+Glotovka,8,RU,1622155540,"{'temp': 51.33, 'feels_like': 49.6, 'temp_min': 51.33, 'temp_max': 51.33, 'pressure': 1020, 'humidity': 73, 'sea_level': 1020, 'grnd_level': 983}",53.9491,46.7042,51.33,3.85
+Palana,100,RU,1622155540,"{'temp': 32.92, 'feels_like': 25.59, 'temp_min': 32.92, 'temp_max': 32.92, 'pressure': 1005, 'humidity': 99, 'sea_level': 1005, 'grnd_level': 970}",59.1167,159.9667,32.92,8.63
+Lazarev,100,RU,1622155540,"{'temp': 38.95, 'feels_like': 33.01, 'temp_min': 38.95, 'temp_max': 38.95, 'pressure': 1007, 'humidity': 82, 'sea_level': 1007, 'grnd_level': 1003}",52.225,141.5131,38.95,8.59
+Taiyuan,0,CN,1622155540,"{'temp': 55.26, 'feels_like': 52.27, 'temp_min': 55.26, 'temp_max': 55.26, 'pressure': 1010, 'humidity': 38, 'sea_level': 1010, 'grnd_level': 921}",37.8694,112.5603,55.26,5.48
+Morros,93,BR,1622155541,"{'temp': 75.25, 'feels_like': 74.46, 'temp_min': 75.25, 'temp_max': 75.25, 'pressure': 1011, 'humidity': 42, 'sea_level': 1011, 'grnd_level': 957}",-9.4467,-46.3003,75.25,2.64
+Port-Gentil,40,GA,1622155541,"{'temp': 78.76, 'feels_like': 78.76, 'temp_min': 78.76, 'temp_max': 78.76, 'pressure': 1012, 'humidity': 89}",-0.7193,8.7815,78.76,6.91
+Aksu,17,CN,1622155541,"{'temp': 70.47, 'feels_like': 68.14, 'temp_min': 70.47, 'temp_max': 70.47, 'pressure': 1006, 'humidity': 20, 'sea_level': 1006, 'grnd_level': 888}",41.1231,80.2644,70.47,4.41
+Fossano,12,IT,1622155542,"{'temp': 56.35, 'feels_like': 55.63, 'temp_min': 50.36, 'temp_max': 62.11, 'pressure': 1016, 'humidity': 84}",44.5489,7.7201,62.11,3.44
+Narsingdi,94,BD,1622155332,"{'temp': 82.42, 'feels_like': 94.1, 'temp_min': 82.42, 'temp_max': 82.42, 'pressure': 1005, 'humidity': 94, 'sea_level': 1005, 'grnd_level': 1004}",23.9208,90.7181,82.42,9.95
+Durango,17,MX,1622155345,"{'temp': 91.45, 'feels_like': 87.17, 'temp_min': 91.45, 'temp_max': 91.45, 'pressure': 1007, 'humidity': 8, 'sea_level': 1007, 'grnd_level': 812}",24.8333,-104.8333,91.45,9.66
+Tsaratanana,0,MG,1622155542,"{'temp': 65.64, 'feels_like': 65.43, 'temp_min': 65.64, 'temp_max': 65.64, 'pressure': 1018, 'humidity': 75, 'sea_level': 1018, 'grnd_level': 979}",-16.7833,47.65,65.64,5.66
+Bubaque,7,GW,1622155542,"{'temp': 78.8, 'feels_like': 78.8, 'temp_min': 78.8, 'temp_max': 78.8, 'pressure': 1012, 'humidity': 79, 'sea_level': 1012, 'grnd_level': 1009}",11.2833,-15.8333,78.8,16.24
+Izvoarele Sucevei,87,RO,1622155543,"{'temp': 49.42, 'feels_like': 49.42, 'temp_min': 49.42, 'temp_max': 49.42, 'pressure': 1014, 'humidity': 90, 'sea_level': 1014, 'grnd_level': 905}",47.75,25.1833,49.42,2.17
+Khandyga,28,RU,1622155543,"{'temp': 61.09, 'feels_like': 58.55, 'temp_min': 61.09, 'temp_max': 61.09, 'pressure': 1004, 'humidity': 35, 'sea_level': 1004, 'grnd_level': 987}",62.6667,135.6,61.09,3.06
+Salalah,20,OM,1622155543,"{'temp': 82.49, 'feels_like': 90.88, 'temp_min': 82.49, 'temp_max': 82.49, 'pressure': 1007, 'humidity': 83}",17.0151,54.0924,82.49,4.61
+Laï,77,TD,1622155544,"{'temp': 83.17, 'feels_like': 84.88, 'temp_min': 83.17, 'temp_max': 83.17, 'pressure': 1011, 'humidity': 54, 'sea_level': 1011, 'grnd_level': 970}",9.3952,16.2989,83.17,8.75
+Archidona,100,ES,1622155544,"{'temp': 54.46, 'feels_like': 53.6, 'temp_min': 52.84, 'temp_max': 58.42, 'pressure': 1017, 'humidity': 85, 'sea_level': 1017, 'grnd_level': 933}",37.0965,-4.3887,58.42,0.92
+Moose Factory,90,CA,1622155544,"{'temp': 39.18, 'feels_like': 31.57, 'temp_min': 39.18, 'temp_max': 39.2, 'pressure': 1025, 'humidity': 52}",51.2585,-80.6094,39.2,12.66
+Batagay,59,RU,1622155545,"{'temp': 60.85, 'feels_like': 58.42, 'temp_min': 60.85, 'temp_max': 60.85, 'pressure': 1008, 'humidity': 38, 'sea_level': 1008, 'grnd_level': 984}",67.6333,134.6333,60.85,3.91
+Xingcheng,100,CN,1622155545,"{'temp': 56.66, 'feels_like': 55.51, 'temp_min': 56.66, 'temp_max': 56.66, 'pressure': 998, 'humidity': 74, 'sea_level': 998, 'grnd_level': 997}",40.6167,120.7167,56.66,23.67
+Torit,87,SS,1622155545,"{'temp': 71.1, 'feels_like': 72.14, 'temp_min': 71.1, 'temp_max': 71.1, 'pressure': 1012, 'humidity': 90, 'sea_level': 1012, 'grnd_level': 943}",4.4133,32.5678,71.1,2.46
+Birūr,3,IN,1622155545,"{'temp': 69.49, 'feels_like': 70, 'temp_min': 69.49, 'temp_max': 69.49, 'pressure': 1009, 'humidity': 82, 'sea_level': 1009, 'grnd_level': 921}",13.6167,75.9667,69.49,6.98
+Ahipara,79,NZ,1622155546,"{'temp': 61.63, 'feels_like': 61.11, 'temp_min': 61.63, 'temp_max': 61.63, 'pressure': 1005, 'humidity': 77, 'sea_level': 1005, 'grnd_level': 1003}",-35.1667,173.1667,61.63,12.75
+Fortuna,90,US,1622155546,"{'temp': 59.13, 'feels_like': 57.94, 'temp_min': 55.74, 'temp_max': 62.65, 'pressure': 1022, 'humidity': 68}",40.5982,-124.1573,62.65,1.99
+Shirokiy,99,RU,1622155546,"{'temp': 52.61, 'feels_like': 51.42, 'temp_min': 52.61, 'temp_max': 52.61, 'pressure': 1002, 'humidity': 82, 'sea_level': 1002, 'grnd_level': 982}",49.758,129.523,52.61,7.67
+Okha,51,RU,1622155547,"{'temp': 42.21, 'feels_like': 36.82, 'temp_min': 42.21, 'temp_max': 42.21, 'pressure': 1007, 'humidity': 75, 'sea_level': 1007, 'grnd_level': 1006}",53.5739,142.9478,42.21,8.95
+Alyangula,30,AU,1622155547,"{'temp': 71.47, 'feels_like': 72.23, 'temp_min': 71.47, 'temp_max': 71.47, 'pressure': 1016, 'humidity': 83, 'sea_level': 1016, 'grnd_level': 1013}",-13.8483,136.4192,71.47,16.84
+Vorobyevka,51,RU,1622155547,"{'temp': 59.63, 'feels_like': 58.44, 'temp_min': 59.63, 'temp_max': 59.63, 'pressure': 1017, 'humidity': 67, 'sea_level': 1017, 'grnd_level': 1004}",50.6451,40.9245,59.63,5.95
+Tooele,1,US,1622155548,"{'temp': 76.86, 'feels_like': 75.27, 'temp_min': 69.98, 'temp_max': 79.9, 'pressure': 1012, 'humidity': 22, 'sea_level': 1012, 'grnd_level': 850}",40.5308,-112.2983,79.9,6.53
+Alta Floresta,7,BR,1622155548,"{'temp': 75.43, 'feels_like': 75.87, 'temp_min': 75.43, 'temp_max': 75.43, 'pressure': 1010, 'humidity': 68, 'sea_level': 1010, 'grnd_level': 977}",-9.8756,-56.0861,75.43,4.12
+Vaijāpur,77,IN,1622155548,"{'temp': 77.49, 'feels_like': 78.28, 'temp_min': 77.49, 'temp_max': 77.49, 'pressure': 1005, 'humidity': 71, 'sea_level': 1005, 'grnd_level': 947}",19.9167,74.7333,77.49,16.96
+Biak,24,ID,1622155549,"{'temp': 77.92, 'feels_like': 79.12, 'temp_min': 77.92, 'temp_max': 77.92, 'pressure': 1013, 'humidity': 79, 'sea_level': 1013, 'grnd_level': 992}",-0.9131,122.8766,77.92,5.57
+San Jose,20,US,1622155397,"{'temp': 73.33, 'feels_like': 72.61, 'temp_min': 58.05, 'temp_max': 83.08, 'pressure': 1018, 'humidity': 48}",37.3394,-121.895,83.08,11.99
+Kargasok,100,RU,1622155549,"{'temp': 36.43, 'feels_like': 25.7, 'temp_min': 36.43, 'temp_max': 36.43, 'pressure': 1011, 'humidity': 71, 'sea_level': 1011, 'grnd_level': 1004}",59.0556,80.8572,36.43,20.33
+Seoul,90,KR,1622155320,"{'temp': 54.88, 'feels_like': 54.19, 'temp_min': 54.36, 'temp_max': 54.97, 'pressure': 1001, 'humidity': 88, 'sea_level': 1001, 'grnd_level': 995}",37.5683,126.9778,54.97,4.03
+Poum,85,NC,1622155550,"{'temp': 72.54, 'feels_like': 72.68, 'temp_min': 72.54, 'temp_max': 72.54, 'pressure': 1015, 'humidity': 68, 'sea_level': 1015, 'grnd_level': 1015}",-20.2333,164.0167,72.54,6.78
+Broome,1,US,1622155522,"{'temp': 61.63, 'feels_like': 60.31, 'temp_min': 57.47, 'temp_max': 65.17, 'pressure': 987, 'humidity': 60}",42.2506,-75.833,65.17,1.99
+Riyadh,0,SA,1622155449,"{'temp': 91.45, 'feels_like': 87.17, 'temp_min': 87.94, 'temp_max': 91.45, 'pressure': 1012, 'humidity': 8}",24.6877,46.7219,91.45,8.05
+City of San Pedro,75,PH,1622155550,"{'temp': 83.61, 'feels_like': 91.2, 'temp_min': 82.15, 'temp_max': 84.09, 'pressure': 1012, 'humidity': 75, 'sea_level': 1012, 'grnd_level': 1003}",14.35,121.0167,84.09,7.16
+Dumlan,21,PH,1622155550,"{'temp': 78.24, 'feels_like': 79.9, 'temp_min': 78.24, 'temp_max': 78.24, 'pressure': 1012, 'humidity': 88, 'sea_level': 1012, 'grnd_level': 1005}",7.4275,125.8819,78.24,1.54
+Flinders,9,AU,1622155517,"{'temp': 56.16, 'feels_like': 54.48, 'temp_min': 52.88, 'temp_max': 57.38, 'pressure': 1019, 'humidity': 64}",-34.5833,150.8552,57.38,5.01
+Codrington,100,AU,1622155551,"{'temp': 52.66, 'feels_like': 50.68, 'temp_min': 52.66, 'temp_max': 52.66, 'pressure': 1034, 'humidity': 65, 'sea_level': 1034, 'grnd_level': 1032}",-38.2667,141.9667,52.66,9.44
+Fare,48,PF,1622155551,"{'temp': 80.26, 'feels_like': 83.64, 'temp_min': 80.26, 'temp_max': 80.26, 'pressure': 1013, 'humidity': 72, 'sea_level': 1013, 'grnd_level': 1013}",-16.7,-151.0167,80.26,9.64
+Palakkad,10,IN,1622155551,"{'temp': 75.24, 'feels_like': 76.84, 'temp_min': 75.24, 'temp_max': 75.24, 'pressure': 1009, 'humidity': 93, 'sea_level': 1009, 'grnd_level': 999}",10.7833,76.65,75.24,6.62
+Chicama,52,PE,1622155552,"{'temp': 64.94, 'feels_like': 64.99, 'temp_min': 64.94, 'temp_max': 64.94, 'pressure': 1013, 'humidity': 82, 'sea_level': 1013, 'grnd_level': 997}",-7.8447,-79.1469,64.94,7.07
+Tazovsky,70,RU,1622155552,"{'temp': 23.61, 'feels_like': 13.77, 'temp_min': 23.61, 'temp_max': 23.61, 'pressure': 1015, 'humidity': 90, 'sea_level': 1015, 'grnd_level': 1011}",67.4667,78.7,23.61,9.28
+Bilibino,92,RU,1622155552,"{'temp': 48.34, 'feels_like': 44.37, 'temp_min': 48.34, 'temp_max': 48.34, 'pressure': 1015, 'humidity': 50, 'sea_level': 1015, 'grnd_level': 980}",68.0546,166.4372,48.34,8.97
+Kilindoni,13,TZ,1622155553,"{'temp': 78.66, 'feels_like': 79.47, 'temp_min': 78.66, 'temp_max': 78.66, 'pressure': 1016, 'humidity': 69, 'sea_level': 1016, 'grnd_level': 1012}",-7.9139,39.6668,78.66,14.45
+Guarujá,18,BR,1622155490,"{'temp': 70.41, 'feels_like': 69.93, 'temp_min': 67.84, 'temp_max': 80.67, 'pressure': 1013, 'humidity': 59}",-23.9931,-46.2564,80.67,3.0
+Tilichiki,100,RU,1622155553,"{'temp': 34.65, 'feels_like': 27.79, 'temp_min': 34.65, 'temp_max': 34.65, 'pressure': 1009, 'humidity': 96, 'sea_level': 1009, 'grnd_level': 983}",60.4667,166.1,34.65,8.48
+Okhotsk,99,RU,1622155553,"{'temp': 43.59, 'feels_like': 41.72, 'temp_min': 43.59, 'temp_max': 43.59, 'pressure': 1005, 'humidity': 70, 'sea_level': 1005, 'grnd_level': 1005}",59.3833,143.3,43.59,3.71
+Jalu,13,LY,1622155554,"{'temp': 78.89, 'feels_like': 78.89, 'temp_min': 78.89, 'temp_max': 78.89, 'pressure': 1014, 'humidity': 31, 'sea_level': 1014, 'grnd_level': 1010}",29.0331,21.5482,78.89,10.49
+Cherskiy,95,RU,1622155554,"{'temp': 57.56, 'feels_like': 54.19, 'temp_min': 57.56, 'temp_max': 57.56, 'pressure': 1013, 'humidity': 25, 'sea_level': 1013, 'grnd_level': 1013}",68.75,161.3,57.56,8.21
+Meadow Lake,1,US,1622155554,"{'temp': 84.07, 'feels_like': 81.19, 'temp_min': 81.68, 'temp_max': 87.48, 'pressure': 1009, 'humidity': 8, 'sea_level': 1009, 'grnd_level': 838}",34.8014,-106.5436,87.48,7.36
+Zyryanka,69,RU,1622155552,"{'temp': 60.62, 'feels_like': 57.56, 'temp_min': 60.62, 'temp_max': 60.62, 'pressure': 1004, 'humidity': 25, 'sea_level': 1004, 'grnd_level': 1000}",65.75,150.85,60.62,21.9
+Lavrentiya,7,RU,1622155555,"{'temp': 34.38, 'feels_like': 27.45, 'temp_min': 34.38, 'temp_max': 34.38, 'pressure': 1016, 'humidity': 89, 'sea_level': 1016, 'grnd_level': 1014}",65.5833,-171.0,34.38,8.52
+Bockenem,33,DE,1622155555,"{'temp': 50.18, 'feels_like': 49.26, 'temp_min': 48.34, 'temp_max': 52.39, 'pressure': 1020, 'humidity': 93, 'sea_level': 1020, 'grnd_level': 1005}",52.0099,10.132,52.39,5.73
+Praia da Vitória,20,PT,1622155555,"{'temp': 59.25, 'feels_like': 58.26, 'temp_min': 58.75, 'temp_max': 59.25, 'pressure': 1025, 'humidity': 72}",38.7333,-27.0667,59.25,9.57
+Arrondissement de Thonon-les-Bains,0,FR,1622155556,"{'temp': 41.79, 'feels_like': 39.24, 'temp_min': 35.67, 'temp_max': 47.66, 'pressure': 1021, 'humidity': 82, 'sea_level': 1021, 'grnd_level': 888}",46.25,6.5,47.66,4.18
+Yurga,100,RU,1622155556,"{'temp': 42.6, 'feels_like': 35.01, 'temp_min': 42.6, 'temp_max': 42.6, 'pressure': 1010, 'humidity': 67, 'sea_level': 1010, 'grnd_level': 991}",55.7231,84.8861,42.6,15.57
+Galveston,75,US,1622155556,"{'temp': 84.67, 'feels_like': 96.71, 'temp_min': 81.97, 'temp_max': 89.22, 'pressure': 1013, 'humidity': 82}",29.3669,-94.9669,89.22,5.99
+Kawalu,62,ID,1622155557,"{'temp': 71.26, 'feels_like': 72.59, 'temp_min': 71.26, 'temp_max': 71.26, 'pressure': 1013, 'humidity': 96, 'sea_level': 1013, 'grnd_level': 977}",-7.3817,108.2082,71.26,2.04
+Naze,100,JP,1622155557,"{'temp': 68.92, 'feels_like': 69.87, 'temp_min': 68.92, 'temp_max': 68.92, 'pressure': 1010, 'humidity': 93, 'sea_level': 1010, 'grnd_level': 983}",28.3667,129.4833,68.92,2.48
+Departamento de Maldonado,1,UY,1622155557,"{'temp': 60.19, 'feels_like': 59.95, 'temp_min': 60.19, 'temp_max': 62.22, 'pressure': 1007, 'humidity': 86, 'sea_level': 1007, 'grnd_level': 998}",-34.6667,-54.9167,62.22,7.4
+Porbandar,84,IN,1622155558,"{'temp': 84.54, 'feels_like': 92.39, 'temp_min': 84.54, 'temp_max': 84.54, 'pressure': 1003, 'humidity': 72, 'sea_level': 1003, 'grnd_level': 1002}",21.6422,69.6093,84.54,13.98
+San Quintín,0,MX,1622155523,"{'temp': 64.22, 'feels_like': 63.3, 'temp_min': 64.22, 'temp_max': 64.22, 'pressure': 1016, 'humidity': 63, 'sea_level': 1016, 'grnd_level': 1015}",30.4833,-115.95,64.22,16.64
+Burē,61,ET,1622155558,"{'temp': 63.61, 'feels_like': 62.82, 'temp_min': 63.61, 'temp_max': 63.61, 'pressure': 1015, 'humidity': 67, 'sea_level': 1015, 'grnd_level': 801}",10.7,37.0667,63.61,4.09
+Westport,35,US,1622155558,"{'temp': 76.01, 'feels_like': 75.33, 'temp_min': 71.04, 'temp_max': 80.64, 'pressure': 1011, 'humidity': 43}",41.1415,-73.3579,80.64,1.01
+Alofi,40,NU,1622155559,"{'temp': 80.49, 'feels_like': 84.97, 'temp_min': 80.49, 'temp_max': 80.49, 'pressure': 1013, 'humidity': 78}",-19.0595,-169.9187,80.49,8.05
+Zunyi,100,CN,1622155559,"{'temp': 63.16, 'feels_like': 63.45, 'temp_min': 63.16, 'temp_max': 63.16, 'pressure': 1012, 'humidity': 91, 'sea_level': 1012, 'grnd_level': 912}",27.6867,106.9072,63.16,3.47
+Novy Urengoy,33,RU,1622155559,"{'temp': 30.2, 'feels_like': 20.71, 'temp_min': 30.2, 'temp_max': 30.2, 'pressure': 1015, 'humidity': 68, 'sea_level': 1015, 'grnd_level': 1009}",66.0833,76.6333,30.2,11.56
+Viedma,78,AR,1622155559,"{'temp': 60.17, 'feels_like': 57.34, 'temp_min': 60.17, 'temp_max': 60.17, 'pressure': 996, 'humidity': 31, 'sea_level': 996, 'grnd_level': 995}",-40.8135,-62.9967,60.17,20.85
+Husavik,34,IS,1622155552,"{'temp': 51.71, 'feels_like': 48.7, 'temp_min': 51.71, 'temp_max': 51.71, 'pressure': 1015, 'humidity': 45, 'sea_level': 1015, 'grnd_level': 1014}",66.0449,-17.3389,51.71,11.74
+Adrar,73,MR,1622155560,"{'temp': 93.67, 'feels_like': 89.56, 'temp_min': 93.67, 'temp_max': 93.67, 'pressure': 1009, 'humidity': 17, 'sea_level': 1009, 'grnd_level': 967}",20.5022,-10.0711,93.67,10.76
+Dezful,0,IR,1622155560,"{'temp': 87.12, 'feels_like': 83.53, 'temp_min': 87.12, 'temp_max': 87.12, 'pressure': 1004, 'humidity': 14, 'sea_level': 1004, 'grnd_level': 988}",32.3811,48.4058,87.12,5.64
+Kruisfontein,73,ZA,1622155561,"{'temp': 55.89, 'feels_like': 55.02, 'temp_min': 55.89, 'temp_max': 55.89, 'pressure': 1015, 'humidity': 82, 'sea_level': 1015, 'grnd_level': 988}",-34.0033,24.7314,55.89,6.93
+Eureka,100,US,1622155275,"{'temp': 59.22, 'feels_like': 59.02, 'temp_min': 57.81, 'temp_max': 61.2, 'pressure': 1021, 'humidity': 89}",40.8021,-124.1637,61.2,3.0
+Porto-Novo,90,BJ,1622155354,"{'temp': 84.02, 'feels_like': 94.42, 'temp_min': 84.02, 'temp_max': 84.02, 'pressure': 1012, 'humidity': 81, 'sea_level': 1012, 'grnd_level': 1009}",6.4965,2.6036,84.02,8.05
+Nānākuli,1,US,1622155561,"{'temp': 85.03, 'feels_like': 88.11, 'temp_min': 82.71, 'temp_max': 85.98, 'pressure': 1018, 'humidity': 56, 'sea_level': 1018, 'grnd_level': 1018}",21.3906,-158.1547,85.98,3.91
+Barra de Tecoanapa,97,MX,1622155561,"{'temp': 87.53, 'feels_like': 90.97, 'temp_min': 87.53, 'temp_max': 87.53, 'pressure': 1010, 'humidity': 52, 'sea_level': 1010, 'grnd_level': 1010}",16.5167,-98.75,87.53,9.84
+Loandjili,100,CG,1622155562,"{'temp': 76.5, 'feels_like': 77.94, 'temp_min': 76.5, 'temp_max': 76.5, 'pressure': 1013, 'humidity': 87, 'sea_level': 1013, 'grnd_level': 1012}",-4.7561,11.8578,76.5,3.42
+Gravdal,90,NO,1622155562,"{'temp': 43.27, 'feels_like': 37.76, 'temp_min': 43.27, 'temp_max': 43.27, 'pressure': 1018, 'humidity': 80, 'sea_level': 1018, 'grnd_level': 1015}",68.1214,13.5031,43.27,9.82
+Palora,83,EC,1622155562,"{'temp': 77.11, 'feels_like': 78.98, 'temp_min': 77.11, 'temp_max': 80.58, 'pressure': 1013, 'humidity': 95, 'sea_level': 1013, 'grnd_level': 915}",-1.7,-77.9333,80.58,0.58
+Kananga,99,CD,1622155563,"{'temp': 69.49, 'feels_like': 68.49, 'temp_min': 69.49, 'temp_max': 69.49, 'pressure': 1012, 'humidity': 50, 'sea_level': 1012, 'grnd_level': 940}",-5.8958,22.4178,69.49,2.73
+Ha Tinh,77,VN,1622155563,"{'temp': 78.03, 'feels_like': 79.84, 'temp_min': 78.03, 'temp_max': 78.03, 'pressure': 1008, 'humidity': 92, 'sea_level': 1008, 'grnd_level': 1008}",18.3333,105.9,78.03,2.71
+Abu Kamal,0,SY,1622155563,"{'temp': 84.02, 'feels_like': 81.21, 'temp_min': 84.02, 'temp_max': 84.02, 'pressure': 1006, 'humidity': 18, 'sea_level': 1006, 'grnd_level': 986}",34.4506,40.9171,84.02,11.56
+Kouango,91,CF,1622155564,"{'temp': 70.45, 'feels_like': 71.71, 'temp_min': 70.45, 'temp_max': 70.45, 'pressure': 1013, 'humidity': 96, 'sea_level': 1013, 'grnd_level': 971}",4.9934,19.9619,70.45,3.27
+Cabedelo,53,BR,1622155564,"{'temp': 75.87, 'feels_like': 77.14, 'temp_min': 75.87, 'temp_max': 75.87, 'pressure': 1013, 'humidity': 85, 'sea_level': 1013, 'grnd_level': 1013}",-6.9811,-34.8339,75.87,11.79
+San Rafael,87,AR,1622155564,"{'temp': 60.8, 'feels_like': 58.37, 'temp_min': 60.8, 'temp_max': 60.8, 'pressure': 1002, 'humidity': 38, 'sea_level': 1002, 'grnd_level': 924}",-34.6177,-68.3301,60.8,11.56
+Kuytun,99,RU,1622155564,"{'temp': 44.82, 'feels_like': 41.25, 'temp_min': 44.82, 'temp_max': 44.82, 'pressure': 1005, 'humidity': 53, 'sea_level': 1005, 'grnd_level': 943}",54.3419,101.5036,44.82,6.42
+Nantucket,1,US,1622155565,"{'temp': 72.43, 'feels_like': 72.57, 'temp_min': 66.96, 'temp_max': 78.91, 'pressure': 1012, 'humidity': 68}",41.2835,-70.0995,78.91,12.66
+Santa Vitória,17,BR,1622155565,"{'temp': 76.39, 'feels_like': 75.97, 'temp_min': 76.39, 'temp_max': 76.39, 'pressure': 1012, 'humidity': 48, 'sea_level': 1012, 'grnd_level': 960}",-18.8386,-50.1214,76.39,5.39
+Angoche,78,MZ,1622155565,"{'temp': 71.33, 'feels_like': 71.92, 'temp_min': 71.33, 'temp_max': 71.33, 'pressure': 1018, 'humidity': 80, 'sea_level': 1018, 'grnd_level': 1017}",-16.2325,39.9086,71.33,6.93
+Savannakhet,99,LA,1622155566,"{'temp': 77.41, 'feels_like': 79.18, 'temp_min': 77.41, 'temp_max': 77.41, 'pressure': 1009, 'humidity': 92, 'sea_level': 1009, 'grnd_level': 992}",16.566,104.751,77.41,4.83
+Saint-Louis,6,SN,1622155566,"{'temp': 85.64, 'feels_like': 83.82, 'temp_min': 85.64, 'temp_max': 85.64, 'pressure': 1010, 'humidity': 33, 'sea_level': 1010, 'grnd_level': 1006}",16.3333,-15.0,85.64,15.35
+Boulder City,1,US,1622155487,"{'temp': 93.9, 'feels_like': 89.2, 'temp_min': 89.92, 'temp_max': 98.58, 'pressure': 1012, 'humidity': 8}",35.9786,-114.8325,98.58,8.05
+Saldanha,71,ZA,1622155547,"{'temp': 57.25, 'feels_like': 56.91, 'temp_min': 57.25, 'temp_max': 57.25, 'pressure': 1019, 'humidity': 90, 'sea_level': 1019, 'grnd_level': 1015}",-33.0117,17.9442,57.25,11.1
+Lamu,48,KE,1622155566,"{'temp': 75.42, 'feels_like': 76.66, 'temp_min': 75.42, 'temp_max': 75.42, 'pressure': 1015, 'humidity': 85, 'sea_level': 1015, 'grnd_level': 1013}",-2.2717,40.902,75.42,12.82
+Vazante,63,BR,1622155440,"{'temp': 75.02, 'feels_like': 74.8, 'temp_min': 75.02, 'temp_max': 75.02, 'pressure': 1013, 'humidity': 55, 'sea_level': 1013, 'grnd_level': 940}",-17.9869,-46.9078,75.02,0.31
+Chitral,0,PK,1622155567,"{'temp': 66.56, 'feels_like': 64.51, 'temp_min': 66.56, 'temp_max': 66.56, 'pressure': 1015, 'humidity': 34, 'sea_level': 1015, 'grnd_level': 856}",35.8462,71.7858,66.56,5.41
+Meulaboh,90,ID,1622155567,"{'temp': 76.05, 'feels_like': 77.4, 'temp_min': 76.05, 'temp_max': 76.05, 'pressure': 1011, 'humidity': 86, 'sea_level': 1011, 'grnd_level': 1010}",4.1363,96.1285,76.05,3.83
+Marawi,43,PH,1622155560,"{'temp': 70.65, 'feels_like': 71.31, 'temp_min': 70.65, 'temp_max': 70.65, 'pressure': 1013, 'humidity': 83, 'sea_level': 1013, 'grnd_level': 934}",7.9986,124.2928,70.65,2.1
+Taltal,65,CL,1622155568,"{'temp': 64.9, 'feels_like': 64.53, 'temp_min': 64.9, 'temp_max': 64.9, 'pressure': 1013, 'humidity': 73, 'sea_level': 1013, 'grnd_level': 1013}",-25.4,-70.4833,64.9,0.96
+Laas,25,IT,1622155568,"{'temp': 54.43, 'feels_like': 53.85, 'temp_min': 43.54, 'temp_max': 54.48, 'pressure': 1025, 'humidity': 91, 'sea_level': 1025, 'grnd_level': 923}",46.6166,10.7002,54.48,6.49
+Tuam,100,IE,1622155568,"{'temp': 47.23, 'feels_like': 44.04, 'temp_min': 46.22, 'temp_max': 49.78, 'pressure': 1019, 'humidity': 97, 'sea_level': 1019, 'grnd_level': 1014}",53.5167,-8.85,49.78,6.62
+Mikumi,22,TZ,1622155569,"{'temp': 62.56, 'feels_like': 62.65, 'temp_min': 62.56, 'temp_max': 62.56, 'pressure': 1018, 'humidity': 88, 'sea_level': 1018, 'grnd_level': 958}",-7.4041,36.9831,62.56,1.77
+Fukuechō,100,JP,1622155569,"{'temp': 68.11, 'feels_like': 68.56, 'temp_min': 68.11, 'temp_max': 68.11, 'pressure': 1007, 'humidity': 84, 'sea_level': 1007, 'grnd_level': 1002}",32.6881,128.8419,68.11,12.48
+Sabla,58,NG,1622155569,"{'temp': 92.28, 'feels_like': 89.26, 'temp_min': 92.28, 'temp_max': 92.28, 'pressure': 1008, 'humidity': 24, 'sea_level': 1008, 'grnd_level': 980}",12.7525,4.7077,92.28,8.55
+Hazorasp,49,UZ,1622155569,"{'temp': 73.24, 'feels_like': 71.53, 'temp_min': 73.24, 'temp_max': 73.24, 'pressure': 1009, 'humidity': 27, 'sea_level': 1009, 'grnd_level': 997}",41.3194,61.0742,73.24,10.47
+Upernavik,81,GL,1622155570,"{'temp': 33.75, 'feels_like': 30.42, 'temp_min': 33.75, 'temp_max': 33.75, 'pressure': 1012, 'humidity': 99, 'sea_level': 1012, 'grnd_level': 1012}",72.7868,-56.1549,33.75,3.71
+Norden,23,DE,1622155570,"{'temp': 48.15, 'feels_like': 46.04, 'temp_min': 45.95, 'temp_max': 50.97, 'pressure': 1021, 'humidity': 86}",53.6,7.2,50.97,5.01
+Atambua,28,ID,1622155570,"{'temp': 72.86, 'feels_like': 73.33, 'temp_min': 72.86, 'temp_max': 72.86, 'pressure': 1015, 'humidity': 74, 'sea_level': 1015, 'grnd_level': 976}",-9.1061,124.8925,72.86,6.08
+Daru,96,PG,1622155571,"{'temp': 79.39, 'feels_like': 79.39, 'temp_min': 79.39, 'temp_max': 79.39, 'pressure': 1013, 'humidity': 78, 'sea_level': 1013, 'grnd_level': 1012}",-9.0763,143.2092,79.39,15.66
+Slave Lake,75,CA,1622155571,"{'temp': 55.38, 'feels_like': 54.19, 'temp_min': 55.38, 'temp_max': 55.38, 'pressure': 1002, 'humidity': 76}",55.2834,-114.769,55.38,4.61
+Tura,100,IN,1622155571,"{'temp': 73.15, 'feels_like': 74.44, 'temp_min': 73.15, 'temp_max': 73.15, 'pressure': 1007, 'humidity': 91, 'sea_level': 1007, 'grnd_level': 965}",25.5198,90.2201,73.15,4.16
+Karpathos,1,GR,1622155572,"{'temp': 67.96, 'feels_like': 68.88, 'temp_min': 67.96, 'temp_max': 67.96, 'pressure': 1010, 'humidity': 94, 'sea_level': 1010, 'grnd_level': 1009}",35.507,27.2132,67.96,9.73
+Gobabis,63,NA,1622155572,"{'temp': 54.77, 'feels_like': 51.58, 'temp_min': 54.77, 'temp_max': 54.77, 'pressure': 1021, 'humidity': 35, 'sea_level': 1021, 'grnd_level': 862}",-22.45,18.9667,54.77,10.58
+Tres Arroyos,100,AR,1622155572,"{'temp': 59.59, 'feels_like': 58.35, 'temp_min': 59.59, 'temp_max': 59.59, 'pressure': 1001, 'humidity': 66, 'sea_level': 1001, 'grnd_level': 987}",-38.3739,-60.2798,59.59,15.86
+Kandete,41,TZ,1622155572,"{'temp': 54.77, 'feels_like': 54.32, 'temp_min': 54.77, 'temp_max': 54.77, 'pressure': 1020, 'humidity': 93, 'sea_level': 1020, 'grnd_level': 848}",-9.15,33.8,54.77,0.87
+Yatou,60,CN,1622155573,"{'temp': 65.16, 'feels_like': 63.82, 'temp_min': 65.16, 'temp_max': 65.16, 'pressure': 998, 'humidity': 52, 'sea_level': 998, 'grnd_level': 994}",37.15,122.3833,65.16,20.92
+San Cristobal,95,VE,1622155573,"{'temp': 77.18, 'feels_like': 79.2, 'temp_min': 77.18, 'temp_max': 77.18, 'pressure': 1015, 'humidity': 98, 'sea_level': 1015, 'grnd_level': 914}",7.7669,-72.225,77.18,3.31
+Arman',100,RU,1622155573,"{'temp': 44.33, 'feels_like': 41.4, 'temp_min': 44.33, 'temp_max': 44.33, 'pressure': 1003, 'humidity': 81, 'sea_level': 1003, 'grnd_level': 1001}",59.7,150.1667,44.33,5.23
+Candolim,86,IN,1622155574,"{'temp': 83.88, 'feels_like': 92.21, 'temp_min': 83.88, 'temp_max': 83.88, 'pressure': 1007, 'humidity': 76, 'sea_level': 1007, 'grnd_level': 1007}",15.5181,73.7626,83.88,8.19
+Grand Gaube,6,MU,1622155574,"{'temp': 73.38, 'feels_like': 74.08, 'temp_min': 72, 'temp_max': 73.38, 'pressure': 1018, 'humidity': 78}",-20.0064,57.6608,73.38,5.01
+Uyuni,100,BO,1622155574,"{'temp': 47.26, 'feels_like': 40.89, 'temp_min': 47.26, 'temp_max': 47.26, 'pressure': 1015, 'humidity': 43, 'sea_level': 1015, 'grnd_level': 662}",-20.4597,-66.825,47.26,15.99
+Biltine,45,TD,1622155575,"{'temp': 87.12, 'feels_like': 85.15, 'temp_min': 87.12, 'temp_max': 87.12, 'pressure': 1011, 'humidity': 32, 'sea_level': 1011, 'grnd_level': 955}",14.5333,20.9167,87.12,14.99
+Lüderitz,6,NA,1622155575,"{'temp': 58.6, 'feels_like': 57.51, 'temp_min': 58.6, 'temp_max': 58.6, 'pressure': 1020, 'humidity': 71, 'sea_level': 1020, 'grnd_level': 1016}",-26.6481,15.1594,58.6,8.5
+Polyarny,100,RU,1622155575,"{'temp': 39.67, 'feels_like': 30.61, 'temp_min': 39.67, 'temp_max': 39.67, 'pressure': 1006, 'humidity': 87, 'sea_level': 1006, 'grnd_level': 1001}",69.1989,33.4478,39.67,17.76
+Bathsheba,20,BB,1622155576,"{'temp': 81.21, 'feels_like': 83.5, 'temp_min': 81.21, 'temp_max': 81.21, 'pressure': 1015, 'humidity': 61, 'sea_level': 1015, 'grnd_level': 1015}",13.2167,-59.5167,81.21,17.16
+Mergen,13,CN,1622155505,"{'temp': 53.78, 'feels_like': 51.91, 'temp_min': 53.78, 'temp_max': 53.78, 'pressure': 1002, 'humidity': 65, 'sea_level': 1002, 'grnd_level': 976}",49.1833,125.2167,53.78,7.31
+Verkhniachka,98,UA,1622155576,"{'temp': 59.76, 'feels_like': 59.2, 'temp_min': 59.76, 'temp_max': 59.76, 'pressure': 1014, 'humidity': 80, 'sea_level': 1014, 'grnd_level': 985}",48.8285,30.0396,59.76,3.89
+Muscatine,90,US,1622155576,"{'temp': 61.39, 'feels_like': 60.42, 'temp_min': 51.19, 'temp_max': 69.39, 'pressure': 1011, 'humidity': 68}",41.4667,-91.1335,69.39,3.0
+Rome,70,US,1622155508,"{'temp': 59.58, 'feels_like': 57.78, 'temp_min': 57.88, 'temp_max': 62.46, 'pressure': 1018, 'humidity': 54}",43.2128,-75.4557,62.46,4.0
+Opuwo,0,NA,1622155577,"{'temp': 62.22, 'feels_like': 59.94, 'temp_min': 62.22, 'temp_max': 62.22, 'pressure': 1018, 'humidity': 38, 'sea_level': 1018, 'grnd_level': 891}",-18.0607,13.84,62.22,6.4
+Salinópolis,83,BR,1622155577,"{'temp': 79.07, 'feels_like': 79.07, 'temp_min': 79.07, 'temp_max': 79.07, 'pressure': 1012, 'humidity': 84, 'sea_level': 1012, 'grnd_level': 1012}",-0.6136,-47.3561,79.07,8.57
+Comodoro Rivadavia,0,AR,1622155502,"{'temp': 51.66, 'feels_like': 49.24, 'temp_min': 51.66, 'temp_max': 51.66, 'pressure': 990, 'humidity': 58}",-45.8667,-67.5,51.66,10.36
+Cockburn Town,6,TC,1622155577,"{'temp': 79.18, 'feels_like': 79.18, 'temp_min': 79.18, 'temp_max': 79.18, 'pressure': 1017, 'humidity': 77, 'sea_level': 1017, 'grnd_level': 1016}",21.4612,-71.1419,79.18,15.03
+Conde,20,BR,1622155578,"{'temp': 74.66, 'feels_like': 76.53, 'temp_min': 74.66, 'temp_max': 74.66, 'pressure': 1014, 'humidity': 100, 'sea_level': 1014, 'grnd_level': 1001}",-7.2597,-34.9075,74.66,8.5
+Aasiaat,91,GL,1622155578,"{'temp': 36.54, 'feels_like': 33.08, 'temp_min': 36.54, 'temp_max': 36.54, 'pressure': 1010, 'humidity': 84, 'sea_level': 1010, 'grnd_level': 1010}",68.7098,-52.8699,36.54,4.25
+Bariloche,75,AR,1622155573,"{'temp': 45.45, 'feels_like': 37.33, 'temp_min': 42.55, 'temp_max': 45.45, 'pressure': 999, 'humidity': 71}",-41.1456,-71.3082,45.45,21.41
+Vinstra,4,NO,1622155578,"{'temp': 44.44, 'feels_like': 43.09, 'temp_min': 44.44, 'temp_max': 44.44, 'pressure': 1019, 'humidity': 64, 'sea_level': 1019, 'grnd_level': 989}",61.5952,9.7523,44.44,3.29
+Boshnyakovo,61,RU,1622155579,"{'temp': 48.87, 'feels_like': 48.87, 'temp_min': 48.87, 'temp_max': 48.87, 'pressure': 1006, 'humidity': 57, 'sea_level': 1006, 'grnd_level': 978}",49.6333,142.1667,48.87,2.86
+Beaufort,68,MY,1622155579,"{'temp': 77.16, 'feels_like': 79, 'temp_min': 76.89, 'temp_max': 77.16, 'pressure': 1012, 'humidity': 94, 'sea_level': 1012, 'grnd_level': 1010}",5.3473,115.7455,77.16,2.46
+Takoradze,71,GH,1622155579,"{'temp': 80.47, 'feels_like': 86.09, 'temp_min': 80.47, 'temp_max': 80.47, 'pressure': 1012, 'humidity': 85, 'sea_level': 1012, 'grnd_level': 1010}",4.8845,-1.7554,80.47,7.65
+Geraldton,75,AU,1622155580,"{'temp': 66.61, 'feels_like': 65.43, 'temp_min': 66.61, 'temp_max': 68.13, 'pressure': 1018, 'humidity': 52, 'sea_level': 1018, 'grnd_level': 1018}",-28.7667,114.6,68.13,6.2
+General Roca,41,AR,1622155573,"{'temp': 59.4, 'feels_like': 56.59, 'temp_min': 59.4, 'temp_max': 59.4, 'pressure': 999, 'humidity': 33, 'sea_level': 999, 'grnd_level': 972}",-39.0333,-67.5833,59.4,30.42
+Batemans Bay,37,AU,1622155580,"{'temp': 52.92, 'feels_like': 50.49, 'temp_min': 50.2, 'temp_max': 52.92, 'pressure': 1026, 'humidity': 55, 'sea_level': 1026, 'grnd_level': 1024}",-35.7167,150.1833,52.92,11.05
+Kiryat Gat,0,IL,1622155580,"{'temp': 71.08, 'feels_like': 71.51, 'temp_min': 69.82, 'temp_max': 75.4, 'pressure': 1011, 'humidity': 77, 'sea_level': 1011, 'grnd_level': 996}",31.61,34.7642,75.4,3.94
+Kutum,85,SD,1622155581,"{'temp': 82.22, 'feels_like': 79.97, 'temp_min': 82.22, 'temp_max': 82.22, 'pressure': 1012, 'humidity': 19, 'sea_level': 1012, 'grnd_level': 889}",14.2,24.6667,82.22,3.02
+Shingū,100,JP,1622155581,"{'temp': 67.91, 'feels_like': 67.5, 'temp_min': 67.91, 'temp_max': 67.91, 'pressure': 1009, 'humidity': 66, 'sea_level': 1009, 'grnd_level': 1008}",33.7333,135.9833,67.91,0.81
+Buala,100,SB,1622155581,"{'temp': 76.71, 'feels_like': 78.46, 'temp_min': 76.71, 'temp_max': 76.71, 'pressure': 1013, 'humidity': 93, 'sea_level': 1013, 'grnd_level': 1010}",-8.145,159.5921,76.71,6.29
+São Paulo de Olivença,18,BR,1622155581,"{'temp': 76.68, 'feels_like': 78.04, 'temp_min': 76.68, 'temp_max': 76.68, 'pressure': 1010, 'humidity': 85, 'sea_level': 1010, 'grnd_level': 1002}",-3.3783,-68.8725,76.68,1.66
+Chui,0,UY,1622155582,"{'temp': 57.33, 'feels_like': 56.52, 'temp_min': 57.33, 'temp_max': 57.33, 'pressure': 1009, 'humidity': 80, 'sea_level': 1009, 'grnd_level': 1007}",-33.6971,-53.4616,57.33,6.58
+Nelson Bay,8,AU,1622155582,"{'temp': 54.34, 'feels_like': 52.81, 'temp_min': 51.78, 'temp_max': 55.99, 'pressure': 1022, 'humidity': 71}",-32.7167,152.15,55.99,1.99
+Mamit,71,IN,1622155583,"{'temp': 68.56, 'feels_like': 69.67, 'temp_min': 68.56, 'temp_max': 68.56, 'pressure': 1008, 'humidity': 97, 'sea_level': 1008, 'grnd_level': 933}",23.9333,92.4833,68.56,1.74
+Maralal,89,KE,1622155583,"{'temp': 56.05, 'feels_like': 55.29, 'temp_min': 56.05, 'temp_max': 56.05, 'pressure': 1017, 'humidity': 84, 'sea_level': 1017, 'grnd_level': 811}",1.0968,36.698,56.05,6.46
+Abashiri,100,JP,1622155583,"{'temp': 48.76, 'feels_like': 47.53, 'temp_min': 48.76, 'temp_max': 48.76, 'pressure': 1004, 'humidity': 98, 'sea_level': 1004, 'grnd_level': 1003}",44.0213,144.2697,48.76,3.87
+Zhangjiakou,0,CN,1622155584,"{'temp': 54.14, 'feels_like': 51.6, 'temp_min': 54.14, 'temp_max': 54.14, 'pressure': 1009, 'humidity': 50, 'sea_level': 1009, 'grnd_level': 922}",40.81,114.8794,54.14,16.53
+Marystown,100,CA,1622155584,"{'temp': 46.42, 'feels_like': 40.37, 'temp_min': 46.42, 'temp_max': 46.42, 'pressure': 1004, 'humidity': 97, 'sea_level': 1004, 'grnd_level': 1002}",47.1666,-55.1483,46.42,13.82
+Belém,40,BR,1622155334,"{'temp': 84.24, 'feels_like': 96.26, 'temp_min': 84.24, 'temp_max': 84.24, 'pressure': 1010, 'humidity': 84}",-1.4558,-48.5044,84.24,8.05
+Kiunga,95,PG,1622155584,"{'temp': 76.86, 'feels_like': 78.24, 'temp_min': 76.86, 'temp_max': 76.86, 'pressure': 1013, 'humidity': 85, 'sea_level': 1013, 'grnd_level': 1009}",-6.1219,141.2906,76.86,3.94
+Vao,96,NC,1622155585,"{'temp': 71.19, 'feels_like': 71.35, 'temp_min': 71.19, 'temp_max': 71.19, 'pressure': 1014, 'humidity': 71, 'sea_level': 1014, 'grnd_level': 1004}",-22.6667,167.4833,71.19,13.04
+Kashira,99,RU,1622155585,"{'temp': 58.41, 'feels_like': 58.41, 'temp_min': 55.42, 'temp_max': 60.87, 'pressure': 1015, 'humidity': 95, 'sea_level': 1015, 'grnd_level': 999}",54.8444,38.1669,60.87,6.11
+Sitka,90,US,1622155585,"{'temp': 49.89, 'feels_like': 47.68, 'temp_min': 49.89, 'temp_max': 49.89, 'pressure': 1012, 'humidity': 71}",57.0531,-135.33,49.89,5.75
+Airai,64,TL,1622155586,"{'temp': 59.58, 'feels_like': 58.95, 'temp_min': 59.58, 'temp_max': 59.58, 'pressure': 1016, 'humidity': 79, 'sea_level': 1016, 'grnd_level': 860}",-8.9266,125.4092,59.58,3.89
+Levelland,97,US,1622155572,"{'temp': 86.7, 'feels_like': 83.3, 'temp_min': 86.2, 'temp_max': 88.65, 'pressure': 1009, 'humidity': 18, 'sea_level': 1009, 'grnd_level': 896}",33.5873,-102.378,88.65,16.89
+Kamenka,40,RU,1622155586,"{'temp': 57.29, 'feels_like': 56.19, 'temp_min': 57.29, 'temp_max': 57.29, 'pressure': 1018, 'humidity': 74, 'sea_level': 1018, 'grnd_level': 999}",51.3223,42.7678,57.29,6.35
+Baykit,100,RU,1622155586,"{'temp': 43.52, 'feels_like': 37.85, 'temp_min': 43.52, 'temp_max': 43.52, 'pressure': 1003, 'humidity': 66, 'sea_level': 1003, 'grnd_level': 984}",61.67,96.37,43.52,10.4
+Medicine Hat,75,CA,1622155587,"{'temp': 70.02, 'feels_like': 68.74, 'temp_min': 68.99, 'temp_max': 73.11, 'pressure': 1008, 'humidity': 43}",50.0501,-110.6683,73.11,5.99
+Bukama,57,CD,1622155587,"{'temp': 63.39, 'feels_like': 61.97, 'temp_min': 63.39, 'temp_max': 63.39, 'pressure': 1014, 'humidity': 54, 'sea_level': 1014, 'grnd_level': 946}",-9.2,25.85,63.39,2.13
+Domoni,0,KM,1622155587,"{'temp': 74.64, 'feels_like': 75.09, 'temp_min': 74.64, 'temp_max': 74.64, 'pressure': 1017, 'humidity': 70, 'sea_level': 1017, 'grnd_level': 1017}",-12.2569,44.5319,74.64,6.15
+Mackay,0,AU,1622155512,"{'temp': 59.31, 'feels_like': 57.9, 'temp_min': 58.98, 'temp_max': 64.04, 'pressure': 1021, 'humidity': 63}",-21.15,149.2,64.04,8.05
+Erenhot,6,CN,1622155588,"{'temp': 49.8, 'feels_like': 46.06, 'temp_min': 49.8, 'temp_max': 49.8, 'pressure': 1011, 'humidity': 43, 'sea_level': 1011, 'grnd_level': 901}",43.6475,111.9767,49.8,9.22
+Oistins,20,BB,1622155581,"{'temp': 80.69, 'feels_like': 82.8, 'temp_min': 80.69, 'temp_max': 80.69, 'pressure': 1014, 'humidity': 61}",13.0667,-59.5333,80.69,17.27
+Gardez,25,AF,1622155588,"{'temp': 60.69, 'feels_like': 58.39, 'temp_min': 60.69, 'temp_max': 60.69, 'pressure': 1011, 'humidity': 41, 'sea_level': 1011, 'grnd_level': 775}",33.5974,69.2259,60.69,4.16
+Beisfjord,78,NO,1622155588,"{'temp': 44.19, 'feels_like': 41.49, 'temp_min': 40.96, 'temp_max': 44.65, 'pressure': 1017, 'humidity': 95, 'sea_level': 1017, 'grnd_level': 1015}",68.3751,17.5988,44.65,4.85
+Buenos Aires,0,AR,1622155334,"{'temp': 63.81, 'feels_like': 63.36, 'temp_min': 60.82, 'temp_max': 67.89, 'pressure': 1005, 'humidity': 74}",-34.6132,-58.3772,67.89,10.36
+Planadas,52,CO,1622155589,"{'temp': 69.85, 'feels_like': 70.81, 'temp_min': 69.85, 'temp_max': 69.85, 'pressure': 1014, 'humidity': 91, 'sea_level': 1014, 'grnd_level': 885}",3.197,-75.6451,69.85,0.96
+Pisco,90,PE,1622155589,"{'temp': 64.45, 'feels_like': 65.01, 'temp_min': 64.45, 'temp_max': 65.01, 'pressure': 1015, 'humidity': 94}",-13.7,-76.2167,65.01,3.44
+Usinsk,11,RU,1622155525,"{'temp': 34.54, 'feels_like': 28.17, 'temp_min': 34.54, 'temp_max': 34.54, 'pressure': 1017, 'humidity': 67, 'sea_level': 1017, 'grnd_level': 1009}",65.9939,57.5281,34.54,7.61
+Tricase,0,IT,1622155590,"{'temp': 60.17, 'feels_like': 58.75, 'temp_min': 58.35, 'temp_max': 65.32, 'pressure': 1014, 'humidity': 61, 'sea_level': 1014, 'grnd_level': 1002}",39.9304,18.3553,65.32,4.27
+Krasnogorodskoye,46,RU,1622155590,"{'temp': 45.9, 'feels_like': 45.9, 'temp_min': 45.9, 'temp_max': 45.9, 'pressure': 1014, 'humidity': 97, 'sea_level': 1014, 'grnd_level': 1003}",56.8357,28.2822,45.9,2.89
+Coyhaique,90,CL,1622155590,"{'temp': 40.95, 'feels_like': 38.95, 'temp_min': 40.95, 'temp_max': 41.61, 'pressure': 990, 'humidity': 93}",-45.5752,-72.0662,41.61,3.44
+Haimen,99,CN,1622155591,"{'temp': 82.29, 'feels_like': 90.63, 'temp_min': 82.29, 'temp_max': 82.29, 'pressure': 1010, 'humidity': 84, 'sea_level': 1010, 'grnd_level': 1008}",23.1935,116.6142,82.29,8.97
+Nioro,8,GM,1622155591,"{'temp': 79.61, 'feels_like': 79.61, 'temp_min': 79.61, 'temp_max': 79.61, 'pressure': 1011, 'humidity': 53, 'sea_level': 1011, 'grnd_level': 1007}",13.35,-15.75,79.61,9.17
+Chara,89,RU,1622155591,"{'temp': 47.84, 'feels_like': 47.84, 'temp_min': 47.84, 'temp_max': 47.84, 'pressure': 1007, 'humidity': 65, 'sea_level': 1007, 'grnd_level': 925}",56.9064,118.2631,47.84,1.92
+Caraballeda,84,VE,1622155592,"{'temp': 80.67, 'feels_like': 87.33, 'temp_min': 80.67, 'temp_max': 80.67, 'pressure': 1014, 'humidity': 89, 'sea_level': 1014, 'grnd_level': 1009}",10.6112,-66.8522,80.67,8.32
+Puerto Triunfo,26,CO,1622155592,"{'temp': 81.57, 'feels_like': 87.53, 'temp_min': 81.57, 'temp_max': 81.57, 'pressure': 1008, 'humidity': 79, 'sea_level': 1008, 'grnd_level': 992}",5.8726,-74.6403,81.57,1.61
+Brae,29,GB,1622155592,"{'temp': 46.31, 'feels_like': 42.4, 'temp_min': 46.31, 'temp_max': 46.31, 'pressure': 1022, 'humidity': 88, 'sea_level': 1022, 'grnd_level': 1021}",60.3964,-1.353,46.31,7.7
+Norsup,90,VU,1622155593,"{'temp': 76.8, 'feels_like': 76.71, 'temp_min': 76.8, 'temp_max': 76.8, 'pressure': 1014, 'humidity': 54, 'sea_level': 1014, 'grnd_level': 1013}",-16.0667,167.3833,76.8,2.86
+Huadian,100,CN,1622155593,"{'temp': 54.34, 'feels_like': 52.9, 'temp_min': 54.34, 'temp_max': 54.34, 'pressure': 1000, 'humidity': 73, 'sea_level': 1000, 'grnd_level': 968}",42.9633,126.7478,54.34,4.61
+Kichera,7,RU,1622155593,"{'temp': 45.18, 'feels_like': 42.87, 'temp_min': 45.18, 'temp_max': 45.18, 'pressure': 1009, 'humidity': 58, 'sea_level': 1009, 'grnd_level': 952}",55.9375,110.0997,45.18,4.54
+Caravelas,44,BR,1622155593,"{'temp': 74.17, 'feels_like': 75.2, 'temp_min': 74.17, 'temp_max': 74.17, 'pressure': 1015, 'humidity': 83, 'sea_level': 1015, 'grnd_level': 1015}",-17.7125,-39.2481,74.17,6.35
+Paita,21,PE,1622155594,"{'temp': 69.98, 'feels_like': 70.54, 'temp_min': 69.98, 'temp_max': 69.98, 'pressure': 1012, 'humidity': 82, 'sea_level': 1012, 'grnd_level': 1008}",-5.0892,-81.1144,69.98,16.62
+Cuenca,75,EC,1622155594,"{'temp': 68.13, 'feels_like': 67.08, 'temp_min': 68.13, 'temp_max': 68.13, 'pressure': 1025, 'humidity': 52}",-2.8833,-78.9833,68.13,10.36
+Vila Velha,40,BR,1622155562,"{'temp': 74.95, 'feels_like': 76.37, 'temp_min': 74.95, 'temp_max': 75.15, 'pressure': 1016, 'humidity': 90}",-20.3297,-40.2925,75.15,1.01
+Bedelē,18,ET,1622155595,"{'temp': 55.13, 'feels_like': 54.81, 'temp_min': 55.13, 'temp_max': 55.13, 'pressure': 1016, 'humidity': 95, 'sea_level': 1016, 'grnd_level': 804}",8.456,36.353,55.13,2.93
+Wai,86,IN,1622155501,"{'temp': 72, 'feels_like': 72.9, 'temp_min': 72, 'temp_max': 72, 'pressure': 1008, 'humidity': 85, 'sea_level': 1008, 'grnd_level': 929}",17.9333,73.9,72.0,4.63
+Miraflores,96,MX,1622155595,"{'temp': 79.45, 'feels_like': 79.45, 'temp_min': 78.87, 'temp_max': 79.45, 'pressure': 1013, 'humidity': 38, 'sea_level': 1013, 'grnd_level': 780}",19.2167,-98.8083,79.45,3.56
+Souillac,40,MU,1622155595,"{'temp': 71.98, 'feels_like': 73.29, 'temp_min': 71.98, 'temp_max': 73.36, 'pressure': 1018, 'humidity': 94, 'sea_level': 1018, 'grnd_level': 1016}",-20.5167,57.5167,73.36,6.67
+Sozimskiy,89,RU,1622155596,"{'temp': 49.5, 'feels_like': 47.14, 'temp_min': 49.5, 'temp_max': 49.5, 'pressure': 1018, 'humidity': 94, 'sea_level': 1018, 'grnd_level': 998}",59.7418,52.2482,49.5,5.86
+Dorado,40,PR,1622155596,"{'temp': 80.94, 'feels_like': 87.28, 'temp_min': 74.86, 'temp_max': 85.48, 'pressure': 1016, 'humidity': 85, 'sea_level': 1016, 'grnd_level': 1015}",18.4588,-66.2677,85.48,10.83
+Tautira,8,PF,1622155546,"{'temp': 84.22, 'feels_like': 89.98, 'temp_min': 84, 'temp_max': 84.22, 'pressure': 1014, 'humidity': 67, 'sea_level': 1014, 'grnd_level': 1014}",-17.7333,-149.15,84.22,9.84
+Limbang,91,MY,1622155596,"{'temp': 77.94, 'feels_like': 80.04, 'temp_min': 77.02, 'temp_max': 78.91, 'pressure': 1011, 'humidity': 98, 'sea_level': 1011, 'grnd_level': 1011}",4.75,115.0,78.91,1.12
+Nísia Floresta,5,BR,1622155597,"{'temp': 79.18, 'feels_like': 79.18, 'temp_min': 77.81, 'temp_max': 79.18, 'pressure': 1013, 'humidity': 88, 'sea_level': 1013, 'grnd_level': 1011}",-6.0911,-35.2086,79.18,7.14
+Srednekolymsk,51,RU,1622155540,"{'temp': 57.51, 'feels_like': 54.37, 'temp_min': 57.51, 'temp_max': 57.51, 'pressure': 1008, 'humidity': 30, 'sea_level': 1008, 'grnd_level': 1006}",67.45,153.6833,57.51,20.69
+Liuzhou,50,CN,1622155597,"{'temp': 77.27, 'feels_like': 79.12, 'temp_min': 77.27, 'temp_max': 77.27, 'pressure': 1010, 'humidity': 94, 'sea_level': 1010, 'grnd_level': 999}",24.3126,109.3892,77.27,1.43
+Khuzdar,10,PK,1622155467,"{'temp': 80.78, 'feels_like': 79.97, 'temp_min': 80.78, 'temp_max': 80.78, 'pressure': 1004, 'humidity': 34, 'sea_level': 1004, 'grnd_level': 875}",27.7384,66.6434,80.78,4.65
+Areosa,100,PT,1622155597,"{'temp': 61, 'feels_like': 60.98, 'temp_min': 58.44, 'temp_max': 63.66, 'pressure': 1016, 'humidity': 89, 'sea_level': 1016, 'grnd_level': 1015}",41.7178,-8.8571,63.66,8.75
+Zeya,100,RU,1622155598,"{'temp': 52.18, 'feels_like': 50.05, 'temp_min': 52.18, 'temp_max': 52.18, 'pressure': 1002, 'humidity': 63, 'sea_level': 1002, 'grnd_level': 974}",53.75,127.2667,52.18,3.11
+Mangochi,0,MW,1622155598,"{'temp': 60.31, 'feels_like': 59.11, 'temp_min': 60.31, 'temp_max': 60.31, 'pressure': 1019, 'humidity': 65, 'sea_level': 1019, 'grnd_level': 963}",-14.4782,35.2645,60.31,4.9
+Cooma,40,AU,1622155599,"{'temp': 38.97, 'feels_like': 30.76, 'temp_min': 38.97, 'temp_max': 38.97, 'pressure': 1027, 'humidity': 87, 'sea_level': 1027, 'grnd_level': 932}",-36.2333,149.1333,38.97,14.25
+Vung Tau,37,VN,1622155599,"{'temp': 80.42, 'feels_like': 85.14, 'temp_min': 80.42, 'temp_max': 80.42, 'pressure': 1010, 'humidity': 80, 'sea_level': 1010, 'grnd_level': 1009}",10.346,107.0843,80.42,3.8
+Boa Vista,75,BR,1622155599,"{'temp': 78.78, 'feels_like': 78.78, 'temp_min': 78.78, 'temp_max': 78.78, 'pressure': 1011, 'humidity': 78}",2.8197,-60.6733,78.78,13.8
+Itarema,10,BR,1622155599,"{'temp': 79.97, 'feels_like': 79.97, 'temp_min': 79.97, 'temp_max': 79.97, 'pressure': 1011, 'humidity': 78, 'sea_level': 1011, 'grnd_level': 1009}",-2.9248,-39.9167,79.97,14.79
+Pāthardi,99,IN,1622155600,"{'temp': 78.26, 'feels_like': 78.98, 'temp_min': 78.26, 'temp_max': 78.26, 'pressure': 1005, 'humidity': 68, 'sea_level': 1005, 'grnd_level': 945}",19.1667,75.1833,78.26,11.54
+Ol'ga,100,RU,1622155600,"{'temp': 47.37, 'feels_like': 43.68, 'temp_min': 47.37, 'temp_max': 47.37, 'pressure': 1004, 'humidity': 96, 'sea_level': 1004, 'grnd_level': 1001}",43.7444,135.2892,47.37,7.72
+Vila Real,100,PT,1622155579,"{'temp': 57.13, 'feels_like': 55.45, 'temp_min': 57.13, 'temp_max': 58.06, 'pressure': 1016, 'humidity': 62, 'sea_level': 1016, 'grnd_level': 963}",41.3006,-7.7441,58.06,3.56
+Araouane,100,ML,1622155600,"{'temp': 93.16, 'feels_like': 88.59, 'temp_min': 93.16, 'temp_max': 93.16, 'pressure': 1007, 'humidity': 9, 'sea_level': 1007, 'grnd_level': 976}",18.9048,-3.5265,93.16,5.57
+Soyo,99,AO,1622155601,"{'temp': 75.87, 'feels_like': 77.34, 'temp_min': 75.87, 'temp_max': 75.87, 'pressure': 1013, 'humidity': 89, 'sea_level': 1013, 'grnd_level': 1012}",-6.1349,12.3689,75.87,6.04
+Waddān,0,LY,1622155601,"{'temp': 83.57, 'feels_like': 80.83, 'temp_min': 83.57, 'temp_max': 83.57, 'pressure': 1015, 'humidity': 16, 'sea_level': 1015, 'grnd_level': 987}",29.1614,16.139,83.57,11.14
+Alice Springs,92,AU,1622155404,"{'temp': 38.75, 'feels_like': 32.11, 'temp_min': 38.75, 'temp_max': 38.75, 'pressure': 1029, 'humidity': 75, 'sea_level': 1029, 'grnd_level': 960}",-23.7,133.8833,38.75,9.95
+Khetri,3,IN,1622155601,"{'temp': 89.01, 'feels_like': 85.15, 'temp_min': 89.01, 'temp_max': 89.01, 'pressure': 999, 'humidity': 16, 'sea_level': 999, 'grnd_level': 948}",27.9833,75.8,89.01,7.38
+Saint-Augustin,75,CA,1622155602,"{'temp': 47.52, 'feels_like': 44.92, 'temp_min': 47.52, 'temp_max': 47.52, 'pressure': 998, 'humidity': 74, 'sea_level': 998, 'grnd_level': 998}",51.226,-58.6502,47.52,5.61
+Shimoda,100,JP,1622155602,"{'temp': 68.18, 'feels_like': 68.27, 'temp_min': 68.18, 'temp_max': 68.18, 'pressure': 1006, 'humidity': 76, 'sea_level': 1006, 'grnd_level': 1006}",34.6667,138.95,68.18,14.92
+Vilyuysk,63,RU,1622155602,"{'temp': 58.78, 'feels_like': 56.86, 'temp_min': 58.78, 'temp_max': 58.78, 'pressure': 1007, 'humidity': 53, 'sea_level': 1007, 'grnd_level': 994}",63.7553,121.6247,58.78,4.99
+Manbij,1,SY,1622155603,"{'temp': 70.57, 'feels_like': 69.64, 'temp_min': 70.57, 'temp_max': 70.57, 'pressure': 1007, 'humidity': 49, 'sea_level': 1007, 'grnd_level': 954}",36.5281,37.9549,70.57,11.61
+Tynda,100,RU,1622155603,"{'temp': 42.08, 'feels_like': 40.23, 'temp_min': 42.08, 'temp_max': 42.08, 'pressure': 1003, 'humidity': 90, 'sea_level': 1003, 'grnd_level': 940}",55.1667,124.7167,42.08,3.47
+Ugoofaaru,97,MV,1622155603,"{'temp': 82.2, 'feels_like': 88.77, 'temp_min': 82.2, 'temp_max': 82.2, 'pressure': 1010, 'humidity': 78, 'sea_level': 1010, 'grnd_level': 1010}",5.6667,73.0,82.2,21.77
+Ushibukamachi,100,JP,1622155604,"{'temp': 69.12, 'feels_like': 69.53, 'temp_min': 69.12, 'temp_max': 69.12, 'pressure': 1008, 'humidity': 81, 'sea_level': 1008, 'grnd_level': 1007}",32.1906,130.0228,69.12,8.43
+Zemio,100,CF,1622155604,"{'temp': 67.39, 'feels_like': 68.43, 'temp_min': 67.39, 'temp_max': 67.39, 'pressure': 1013, 'humidity': 98, 'sea_level': 1013, 'grnd_level': 948}",5.0314,25.1361,67.39,0.85
+Bouna,82,CI,1622155604,"{'temp': 79.9, 'feels_like': 79.9, 'temp_min': 79.9, 'temp_max': 79.9, 'pressure': 1011, 'humidity': 69, 'sea_level': 1011, 'grnd_level': 975}",9.2667,-3.0,79.9,8.03
+Sinnamary,100,GF,1622155604,"{'temp': 75.9, 'feels_like': 77.61, 'temp_min': 75.9, 'temp_max': 75.9, 'pressure': 1013, 'humidity': 94, 'sea_level': 1013, 'grnd_level': 1012}",5.3833,-52.95,75.9,8.41
+Port Huron,20,US,1622155605,"{'temp': 47.01, 'feels_like': 46.29, 'temp_min': 45.99, 'temp_max': 53.83, 'pressure': 1014, 'humidity': 68}",42.9709,-82.4249,53.83,3.0
+Phuket,75,TH,1622155474,"{'temp': 76.28, 'feels_like': 77.97, 'temp_min': 75.42, 'temp_max': 83.08, 'pressure': 1010, 'humidity': 93, 'sea_level': 1010, 'grnd_level': 1010}",8.0,98.25,83.08,10.94
+Tekeli,100,KZ,1622155605,"{'temp': 57.65, 'feels_like': 57.11, 'temp_min': 57.65, 'temp_max': 57.65, 'pressure': 1015, 'humidity': 85, 'sea_level': 1015, 'grnd_level': 879}",44.83,78.8239,57.65,9.4
+Aipe,40,CO,1622155605,"{'temp': 80.65, 'feels_like': 83.59, 'temp_min': 80.65, 'temp_max': 80.65, 'pressure': 1009, 'humidity': 67, 'sea_level': 1009, 'grnd_level': 966}",3.2222,-75.2367,80.65,3.33
+Berezniki,100,RU,1622155606,"{'temp': 46.83, 'feels_like': 43.83, 'temp_min': 46.83, 'temp_max': 46.83, 'pressure': 1019, 'humidity': 64, 'sea_level': 1019, 'grnd_level': 999}",59.4152,56.8124,46.83,6.13
+Hailar,81,CN,1622155606,"{'temp': 48.38, 'feels_like': 46.4, 'temp_min': 48.38, 'temp_max': 48.38, 'pressure': 1003, 'humidity': 72, 'sea_level': 1003, 'grnd_level': 931}",49.2,119.7,48.38,4.88
+Tananger,90,NO,1622155606,"{'temp': 48.97, 'feels_like': 48.13, 'temp_min': 47.12, 'temp_max': 51.94, 'pressure': 1018, 'humidity': 95}",58.9333,5.6,51.94,3.44
+Sioux Lookout,40,CA,1622155334,"{'temp': 51.87, 'feels_like': 47.93, 'temp_min': 51.87, 'temp_max': 52.18, 'pressure': 1025, 'humidity': 25}",50.1001,-91.917,52.18,5.75
+Narsaq,57,GL,1622155607,"{'temp': 53.82, 'feels_like': 51.67, 'temp_min': 53.82, 'temp_max': 53.82, 'pressure': 1005, 'humidity': 59, 'sea_level': 1005, 'grnd_level': 1002}",60.9167,-46.05,53.82,5.97
+Ngunguru,83,NZ,1622155607,"{'temp': 57.16, 'feels_like': 56.43, 'temp_min': 57.16, 'temp_max': 57.16, 'pressure': 1004, 'humidity': 82, 'sea_level': 1004, 'grnd_level': 1000}",-35.6167,174.5,57.16,11.01
+Ketchikan,1,US,1622155607,"{'temp': 61.27, 'feels_like': 59.34, 'temp_min': 55.38, 'temp_max': 61.27, 'pressure': 1008, 'humidity': 48}",55.3422,-131.6461,61.27,13.8
+Menongue,0,AO,1622155608,"{'temp': 51.67, 'feels_like': 48.88, 'temp_min': 51.67, 'temp_max': 51.67, 'pressure': 1020, 'humidity': 50, 'sea_level': 1020, 'grnd_level': 869}",-14.6585,17.691,51.67,3.85
+Walvis Bay,5,NA,1622155608,"{'temp': 61.75, 'feels_like': 60.58, 'temp_min': 59.09, 'temp_max': 61.75, 'pressure': 1016, 'humidity': 63, 'sea_level': 1016, 'grnd_level': 1016}",-22.9575,14.5053,61.75,13.11
+Port Hedland,100,AU,1622155608,"{'temp': 75.25, 'feels_like': 74.5, 'temp_min': 75.25, 'temp_max': 75.25, 'pressure': 1017, 'humidity': 43}",-20.3167,118.5667,75.25,11.5
+Calama,75,CL,1622155609,"{'temp': 55.89, 'feels_like': 53.71, 'temp_min': 55.89, 'temp_max': 55.89, 'pressure': 1027, 'humidity': 54}",-22.4667,-68.9333,55.89,25.32
+Gizo Government Station,100,SB,1622155609,"{'temp': 77.31, 'feels_like': 79.11, 'temp_min': 77.31, 'temp_max': 77.31, 'pressure': 1012, 'humidity': 93, 'sea_level': 1012, 'grnd_level': 1010}",-8.103,156.8419,77.31,8.99
+Charters Towers,1,AU,1622155609,"{'temp': 64.31, 'feels_like': 62.13, 'temp_min': 64.31, 'temp_max': 64.31, 'pressure': 1022, 'humidity': 36, 'sea_level': 1022, 'grnd_level': 985}",-20.1,146.2667,64.31,15.14
+Kudahuvadhoo,100,MV,1622155610,"{'temp': 83.89, 'feels_like': 91.9, 'temp_min': 83.89, 'temp_max': 83.89, 'pressure': 1010, 'humidity': 75, 'sea_level': 1010, 'grnd_level': 1009}",2.6708,72.8944,83.89,21.59
+Cirò Marina,2,IT,1622155610,"{'temp': 65.03, 'feels_like': 64.2, 'temp_min': 65.03, 'temp_max': 65.03, 'pressure': 1014, 'humidity': 63, 'sea_level': 1014, 'grnd_level': 1013}",39.3732,17.126,65.03,6.73
+Kédougou,66,SN,1622155610,"{'temp': 88.41, 'feels_like': 89.65, 'temp_min': 88.41, 'temp_max': 88.41, 'pressure': 1010, 'humidity': 44, 'sea_level': 1010, 'grnd_level': 997}",12.5579,-12.1743,88.41,3.67
+Songea,3,TZ,1622155611,"{'temp': 53.46, 'feels_like': 52.07, 'temp_min': 53.46, 'temp_max': 53.46, 'pressure': 1020, 'humidity': 76, 'sea_level': 1020, 'grnd_level': 894}",-10.6833,35.65,53.46,1.86
+Cherdyn',95,RU,1622155611,"{'temp': 45.68, 'feels_like': 41.68, 'temp_min': 45.68, 'temp_max': 45.68, 'pressure': 1018, 'humidity': 69, 'sea_level': 1018, 'grnd_level': 998}",60.403,56.4787,45.68,7.61
+Grand-Santi,100,GF,1622155611,"{'temp': 72.48, 'feels_like': 74.14, 'temp_min': 72.48, 'temp_max': 72.48, 'pressure': 1014, 'humidity': 100, 'sea_level': 1014, 'grnd_level': 1007}",4.25,-54.3833,72.48,2.1
+Tobermory,100,CA,1622155451,"{'temp': 48.31, 'feels_like': 43.81, 'temp_min': 48.31, 'temp_max': 48.31, 'pressure': 1023, 'humidity': 66, 'sea_level': 1023, 'grnd_level': 999}",45.2501,-81.6665,48.31,10.36
+Dicabisagan,75,PH,1622155612,"{'temp': 83.48, 'feels_like': 91.24, 'temp_min': 83.48, 'temp_max': 83.48, 'pressure': 1012, 'humidity': 76, 'sea_level': 1012, 'grnd_level': 1011}",17.0818,122.4157,83.48,3.11
+Guerrero Negro,0,MX,1622155612,"{'temp': 67.6, 'feels_like': 66.7, 'temp_min': 67.6, 'temp_max': 67.6, 'pressure': 1015, 'humidity': 56, 'sea_level': 1015, 'grnd_level': 1015}",27.9769,-114.0611,67.6,22.24
+Kavaratti,14,IN,1622155612,"{'temp': 82.98, 'feels_like': 90.32, 'temp_min': 82.98, 'temp_max': 82.98, 'pressure': 1009, 'humidity': 77, 'sea_level': 1009, 'grnd_level': 1007}",10.5669,72.642,82.98,16.06
+Laurel,1,US,1622155501,"{'temp': 80.87, 'feels_like': 81.27, 'temp_min': 76.84, 'temp_max': 83.88, 'pressure': 1014, 'humidity': 47}",39.0993,-76.8483,83.88,1.99
+Kondinskoye,92,RU,1622155613,"{'temp': 39.58, 'feels_like': 36.66, 'temp_min': 39.58, 'temp_max': 39.58, 'pressure': 1021, 'humidity': 76, 'sea_level': 1021, 'grnd_level': 1016}",59.6481,67.41,39.58,4.18
+Chipinge,0,ZW,1622155613,"{'temp': 50.68, 'feels_like': 47.71, 'temp_min': 50.68, 'temp_max': 50.68, 'pressure': 1021, 'humidity': 48, 'sea_level': 1021, 'grnd_level': 896}",-20.1883,32.6236,50.68,2.42
+Sola,75,VU,1622155613,"{'temp': 81.27, 'feels_like': 84.92, 'temp_min': 81.27, 'temp_max': 81.27, 'pressure': 1012, 'humidity': 69}",-13.8833,167.55,81.27,0.0
+Baijiantan,54,CN,1622155614,"{'temp': 82.13, 'feels_like': 80.35, 'temp_min': 82.13, 'temp_max': 82.13, 'pressure': 1004, 'humidity': 27, 'sea_level': 1004, 'grnd_level': 974}",45.6333,85.1833,82.13,25.68
+São João da Barra,18,BR,1622155614,"{'temp': 72.41, 'feels_like': 73.49, 'temp_min': 72.41, 'temp_max': 72.41, 'pressure': 1016, 'humidity': 88, 'sea_level': 1016, 'grnd_level': 1015}",-21.6403,-41.0511,72.41,6.15
+Puri,48,IN,1622155615,"{'temp': 84.38, 'feels_like': 99.82, 'temp_min': 84.38, 'temp_max': 84.38, 'pressure': 1002, 'humidity': 91, 'sea_level': 1002, 'grnd_level': 1002}",19.8,85.85,84.38,9.55
+Arrondissement de Muret,55,FR,1622155615,"{'temp': 59.29, 'feels_like': 58.73, 'temp_min': 50.68, 'temp_max': 65.41, 'pressure': 1016, 'humidity': 81}",43.3333,1.25,65.41,1.99
+"Leibnitz, Styria",99,AT,1622155615,"{'temp': 49.28, 'feels_like': 49.28, 'temp_min': 47.88, 'temp_max': 51.26, 'pressure': 1019, 'humidity': 86}",46.7816,15.5384,51.26,1.01
+‘Ewa Beach,1,US,1622155330,"{'temp': 85.26, 'feels_like': 87.35, 'temp_min': 82.69, 'temp_max': 86.02, 'pressure': 1019, 'humidity': 52}",21.3156,-158.0072,86.02,15.99
+Notre-Dame-du-Lac,16,CA,1622155616,"{'temp': 46.33, 'feels_like': 40.77, 'temp_min': 43.83, 'temp_max': 46.87, 'pressure': 1014, 'humidity': 41, 'sea_level': 1014, 'grnd_level': 993}",47.6136,-68.7964,46.87,12.12
+Xining,99,CN,1622155616,"{'temp': 55.54, 'feels_like': 52.95, 'temp_min': 55.54, 'temp_max': 55.54, 'pressure': 1014, 'humidity': 46, 'sea_level': 1014, 'grnd_level': 779}",36.6167,101.7667,55.54,2.26
+Feira de Santana,7,BR,1622155490,"{'temp': 68.68, 'feels_like': 68.83, 'temp_min': 68.68, 'temp_max': 68.68, 'pressure': 1016, 'humidity': 76, 'sea_level': 1016, 'grnd_level': 990}",-12.2667,-38.9667,68.68,7.38
+Mrągowo,22,PL,1622155616,"{'temp': 42.8, 'feels_like': 39.06, 'temp_min': 42.8, 'temp_max': 42.8, 'pressure': 1016, 'humidity': 94, 'sea_level': 1016, 'grnd_level': 999}",53.8644,21.3051,42.8,6.06
+Lompoc,1,US,1622155617,"{'temp': 66.51, 'feels_like': 66, 'temp_min': 59.72, 'temp_max': 77.13, 'pressure': 1018, 'humidity': 67}",34.6391,-120.4579,77.13,17.27
+Lexington,1,US,1622155408,"{'temp': 81.88, 'feels_like': 81.59, 'temp_min': 80.89, 'temp_max': 83.95, 'pressure': 1015, 'humidity': 42}",37.9887,-84.4777,83.95,1.01
+Lata,100,PT,1622155544,"{'temp': 59.49, 'feels_like': 59.32, 'temp_min': 53.35, 'temp_max': 63.72, 'pressure': 1017, 'humidity': 89, 'sea_level': 1017, 'grnd_level': 996}",40.1629,-8.3327,63.72,2.01
+Sharan,0,RU,1622155617,"{'temp': 48.52, 'feels_like': 48.52, 'temp_min': 48.52, 'temp_max': 48.52, 'pressure': 1021, 'humidity': 85, 'sea_level': 1021, 'grnd_level': 1001}",54.8167,54.0,48.52,2.91
+Sabile,81,LV,1622155617,"{'temp': 43.63, 'feels_like': 41.27, 'temp_min': 43.63, 'temp_max': 43.63, 'pressure': 1014, 'humidity': 97, 'sea_level': 1014, 'grnd_level': 1009}",57.0458,22.5726,43.63,4.29
+Nova Friburgo,18,BR,1622155618,"{'temp': 60.21, 'feels_like': 60.53, 'temp_min': 60.21, 'temp_max': 60.21, 'pressure': 1018, 'humidity': 98, 'sea_level': 1018, 'grnd_level': 918}",-22.2819,-42.5311,60.21,1.52
+Nuuk,6,GL,1622155618,"{'temp': 38.01, 'feels_like': 34.47, 'temp_min': 36.88, 'temp_max': 38.01, 'pressure': 1009, 'humidity': 87}",64.1835,-51.7216,38.01,4.61
+Indramayu,40,ID,1622155618,"{'temp': 79.14, 'feels_like': 79.14, 'temp_min': 79.14, 'temp_max': 79.14, 'pressure': 1011, 'humidity': 80, 'sea_level': 1011, 'grnd_level': 1011}",-6.3264,108.32,79.14,6.04
+Praia,20,CV,1622155619,"{'temp': 72.14, 'feels_like': 72.48, 'temp_min': 72.14, 'temp_max': 72.14, 'pressure': 1015, 'humidity': 73}",14.9215,-23.5087,72.14,14.97
+Espinosa,52,BR,1622155619,"{'temp': 77.38, 'feels_like': 76.98, 'temp_min': 77.38, 'temp_max': 77.38, 'pressure': 1014, 'humidity': 46, 'sea_level': 1014, 'grnd_level': 951}",-14.9261,-42.8192,77.38,4.61
+Saint-Leu,11,RE,1622155619,"{'temp': 70.07, 'feels_like': 70.3, 'temp_min': 69.67, 'temp_max': 70.66, 'pressure': 1019, 'humidity': 75, 'sea_level': 1019, 'grnd_level': 1007}",-21.15,55.2833,70.66,4.36
+Richmond,40,US,1622155381,"{'temp': 85.98, 'feels_like': 85.03, 'temp_min': 80.98, 'temp_max': 89.58, 'pressure': 1014, 'humidity': 38}",37.5538,-77.4603,89.58,5.01
+Pangody,25,RU,1622155620,"{'temp': 31.89, 'feels_like': 24.15, 'temp_min': 31.89, 'temp_max': 31.89, 'pressure': 1017, 'humidity': 69, 'sea_level': 1017, 'grnd_level': 1010}",65.85,74.4859,31.89,8.97
+Boda,35,CF,1622155620,"{'temp': 69.37, 'feels_like': 70.52, 'temp_min': 69.37, 'temp_max': 69.37, 'pressure': 1013, 'humidity': 96, 'sea_level': 1013, 'grnd_level': 956}",4.3189,17.4695,69.37,0.34
+Rabo de Peixe,20,PT,1622155620,"{'temp': 58.51, 'feels_like': 57.45, 'temp_min': 58.51, 'temp_max': 58.51, 'pressure': 1025, 'humidity': 72, 'sea_level': 1025, 'grnd_level': 1012}",37.8,-25.5833,58.51,6.22
